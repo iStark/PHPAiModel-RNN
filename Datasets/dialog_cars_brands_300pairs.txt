@@ -1,0 +1,238 @@
+<Q> Какая модель у Kia? <A> Kia Ceed. <NL>
+<Q> Кто выпускает Focus? <A> Ford выпускает модель Focus. <NL>
+<Q> Какая модель у Kia? <A> Kia Rio. <NL>
+<Q> Кто выпускает Tiguan? <A> Volkswagen выпускает модель Tiguan. <NL>
+<Q> Кто выпускает Mazda3? <A> Mazda выпускает модель Mazda3. <NL>
+<Q> Какая модель у Chevrolet? <A> Chevrolet Spark. <NL>
+<Q> Какая модель у Volvo? <A> Volvo V60. <NL>
+<Q> Кто выпускает HR-V? <A> Honda выпускает модель HR-V. <NL>
+<Q> Кто выпускает MX-5? <A> Mazda выпускает модель MX-5. <NL>
+<Q> Кто выпускает Cruze? <A> Chevrolet выпускает модель Cruze. <NL>
+<Q> Какая модель у Audi? <A> Audi A4. <NL>
+<Q> Кто выпускает Maxima? <A> Nissan выпускает модель Maxima. <NL>
+<Q> Какая модель у Lexus? <A> Lexus IS. <NL>
+<Q> Какая модель у Subaru? <A> Subaru Outback. <NL>
+<Q> Кто выпускает Q7? <A> Audi выпускает модель Q7. <NL>
+<Q> Кто выпускает Eclipse? <A> Mitsubishi выпускает модель Eclipse. <NL>
+<Q> Какая модель у Subaru? <A> Subaru Forester. <NL>
+<Q> Кто выпускает Civic? <A> Honda выпускает модель Civic. <NL>
+<Q> Какая модель у Mitsubishi? <A> Mitsubishi Outlander. <NL>
+<Q> Кто выпускает Altima? <A> Nissan выпускает модель Altima. <NL>
+<Q> Кто выпускает Explorer? <A> Ford выпускает модель Explorer. <NL>
+<Q> Кто выпускает Outback? <A> Subaru выпускает модель Outback. <NL>
+<Q> Какая модель у Chevrolet? <A> Chevrolet Tahoe. <NL>
+<Q> Кто выпускает LX? <A> Lexus выпускает модель LX. <NL>
+<Q> Какая модель у Mitsubishi? <A> Mitsubishi Eclipse. <NL>
+<Q> Какая модель у Mazda? <A> Mazda CX-5. <NL>
+<Q> Какая модель у Kia? <A> Kia Sorento. <NL>
+<Q> Кто выпускает Land Cruiser? <A> Toyota выпускает модель Land Cruiser. <NL>
+<Q> Какая модель у Chevrolet? <A> Chevrolet Malibu. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz GLE. <NL>
+<Q> Кто выпускает Rio? <A> Kia выпускает модель Rio. <NL>
+<Q> Кто выпускает Portofino? <A> Ferrari выпускает модель Portofino. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz C-Class. <NL>
+<Q> Какая модель у Lexus? <A> Lexus NX. <NL>
+<Q> Кто выпускает AMG GT? <A> Mercedes-Benz выпускает модель AMG GT. <NL>
+<Q> Какая модель у Subaru? <A> Subaru WRX. <NL>
+<Q> Кто выпускает 3 Series? <A> BMW выпускает модель 3 Series. <NL>
+<Q> Какая модель у Lamborghini? <A> Lamborghini Gallardo. <NL>
+<Q> Кто выпускает 5 Series? <A> BMW выпускает модель 5 Series. <NL>
+<Q> Какая модель у Kia? <A> Kia Stinger. <NL>
+<Q> Какая модель у Ferrari? <A> Ferrari Portofino. <NL>
+<Q> Какая модель у BMW? <A> BMW 3 Series. <NL>
+<Q> Кто выпускает Lancer? <A> Mitsubishi выпускает модель Lancer. <NL>
+<Q> Кто выпускает Yaris? <A> Toyota выпускает модель Yaris. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz S-Class. <NL>
+<Q> Какая модель у Porsche? <A> Porsche 911. <NL>
+<Q> Кто выпускает Gallardo? <A> Lamborghini выпускает модель Gallardo. <NL>
+<Q> Кто выпускает XC60? <A> Volvo выпускает модель XC60. <NL>
+<Q> Какая модель у Volvo? <A> Volvo XC40. <NL>
+<Q> Какая модель у BMW? <A> BMW X5. <NL>
+<Q> Кто выпускает CX-9? <A> Mazda выпускает модель CX-9. <NL>
+<Q> Какая модель у Volkswagen? <A> Volkswagen Tiguan. <NL>
+<Q> Кто выпускает 488? <A> Ferrari выпускает модель 488. <NL>
+<Q> Кто выпускает CX-3? <A> Mazda выпускает модель CX-3. <NL>
+<Q> Кто выпускает Accord? <A> Honda выпускает модель Accord. <NL>
+<Q> Кто выпускает A6? <A> Audi выпускает модель A6. <NL>
+<Q> Кто выпускает XC40? <A> Volvo выпускает модель XC40. <NL>
+<Q> Какая модель у Nissan? <A> Nissan Micra. <NL>
+<Q> Кто выпускает Fit? <A> Honda выпускает модель Fit. <NL>
+<Q> Кто выпускает Cherokee? <A> Jeep выпускает модель Cherokee. <NL>
+<Q> Кто выпускает LaFerrari? <A> Ferrari выпускает модель LaFerrari. <NL>
+<Q> Какая модель у Audi? <A> Audi A6. <NL>
+<Q> Кто выпускает GLA? <A> Mercedes-Benz выпускает модель GLA. <NL>
+<Q> Какая модель у Nissan? <A> Nissan Altima. <NL>
+<Q> Кто выпускает Impreza? <A> Subaru выпускает модель Impreza. <NL>
+<Q> Кто выпускает i10? <A> Hyundai выпускает модель i10. <NL>
+<Q> Кто выпускает Sportage? <A> Kia выпускает модель Sportage. <NL>
+<Q> Какая модель у Nissan? <A> Nissan Maxima. <NL>
+<Q> Кто выпускает RAV4? <A> Toyota выпускает модель RAV4. <NL>
+<Q> Кто выпускает GLC? <A> Mercedes-Benz выпускает модель GLC. <NL>
+<Q> Какая модель у Ferrari? <A> Ferrari F8 Tributo. <NL>
+<Q> Какая модель у Mitsubishi? <A> Mitsubishi ASX. <NL>
+<Q> Какая модель у Mazda? <A> Mazda MX-5. <NL>
+<Q> Какая модель у Hyundai? <A> Hyundai i20. <NL>
+<Q> Кто выпускает Silverado? <A> Chevrolet выпускает модель Silverado. <NL>
+<Q> Какая модель у Kia? <A> Kia Soul. <NL>
+<Q> Какая модель у Honda? <A> Honda HR-V. <NL>
+<Q> Какая модель у Lamborghini? <A> Lamborghini Aventador. <NL>
+<Q> Кто выпускает Legacy? <A> Subaru выпускает модель Legacy. <NL>
+<Q> Кто выпускает C-Class? <A> Mercedes-Benz выпускает модель C-Class. <NL>
+<Q> Кто выпускает Malibu? <A> Chevrolet выпускает модель Malibu. <NL>
+<Q> Какая модель у Chevrolet? <A> Chevrolet Silverado. <NL>
+<Q> Кто выпускает Urus? <A> Lamborghini выпускает модель Urus. <NL>
+<Q> Кто выпускает ASX? <A> Mitsubishi выпускает модель ASX. <NL>
+<Q> Кто выпускает RX? <A> Lexus выпускает модель RX. <NL>
+<Q> Какая модель у Jeep? <A> Jeep Grand Cherokee. <NL>
+<Q> Кто выпускает Sorento? <A> Kia выпускает модель Sorento. <NL>
+<Q> Кто выпускает Grand Cherokee? <A> Jeep выпускает модель Grand Cherokee. <NL>
+<Q> Кто выпускает Ceed? <A> Kia выпускает модель Ceed. <NL>
+<Q> Кто выпускает E-Class? <A> Mercedes-Benz выпускает модель E-Class. <NL>
+<Q> Какая модель у Lexus? <A> Lexus ES. <NL>
+<Q> Кто выпускает Arteon? <A> Volkswagen выпускает модель Arteon. <NL>
+<Q> Какая модель у Honda? <A> Honda Civic. <NL>
+<Q> Какая модель у Nissan? <A> Nissan X-Trail. <NL>
+<Q> Кто выпускает Wrangler? <A> Jeep выпускает модель Wrangler. <NL>
+<Q> Какая модель у Ferrari? <A> Ferrari Roma. <NL>
+<Q> Кто выпускает Elantra? <A> Hyundai выпускает модель Elantra. <NL>
+<Q> Какая модель у Lexus? <A> Lexus GS. <NL>
+<Q> Какая модель у Toyota? <A> Toyota RAV4. <NL>
+<Q> Кто выпускает 7 Series? <A> BMW выпускает модель 7 Series. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz AMG GT. <NL>
+<Q> Кто выпускает Corolla? <A> Toyota выпускает модель Corolla. <NL>
+<Q> Какая модель у Mazda? <A> Mazda Mazda3. <NL>
+<Q> Какая модель у Lamborghini? <A> Lamborghini Huracan. <NL>
+<Q> Кто выпускает Q5? <A> Audi выпускает модель Q5. <NL>
+<Q> Кто выпускает 911? <A> Porsche выпускает модель 911. <NL>
+<Q> Какая модель у Jeep? <A> Jeep Wrangler. <NL>
+<Q> Кто выпускает Passat? <A> Volkswagen выпускает модель Passat. <NL>
+<Q> Какая модель у Nissan? <A> Nissan GT-R. <NL>
+<Q> Какая модель у BMW? <A> BMW M3. <NL>
+<Q> Какая модель у Ford? <A> Ford Kuga. <NL>
+<Q> Какая модель у Lexus? <A> Lexus RX. <NL>
+<Q> Какая модель у BMW? <A> BMW 7 Series. <NL>
+<Q> Какая модель у Ford? <A> Ford Fiesta. <NL>
+<Q> Какая модель у Toyota? <A> Toyota Land Cruiser. <NL>
+<Q> Кто выпускает Outlander? <A> Mitsubishi выпускает модель Outlander. <NL>
+<Q> Кто выпускает M5? <A> BMW выпускает модель M5. <NL>
+<Q> Какая модель у Honda? <A> Honda CR-V. <NL>
+<Q> Какая модель у Volvo? <A> Volvo S90. <NL>
+<Q> Кто выпускает GT-R? <A> Nissan выпускает модель GT-R. <NL>
+<Q> Какая модель у Honda? <A> Honda Fit. <NL>
+<Q> Какая модель у Jeep? <A> Jeep Compass. <NL>
+<Q> Какая модель у BMW? <A> BMW X3. <NL>
+<Q> Какая модель у Audi? <A> Audi Q7. <NL>
+<Q> Кто выпускает Qashqai? <A> Nissan выпускает модель Qashqai. <NL>
+<Q> Кто выпускает Camaro? <A> Chevrolet выпускает модель Camaro. <NL>
+<Q> Какая модель у Audi? <A> Audi Q3. <NL>
+<Q> Какая модель у Hyundai? <A> Hyundai i30. <NL>
+<Q> Какая модель у Honda? <A> Honda Pilot. <NL>
+<Q> Какая модель у Lamborghini? <A> Lamborghini Urus. <NL>
+<Q> Кто выпускает Santa Fe? <A> Hyundai выпускает модель Santa Fe. <NL>
+<Q> Кто выпускает Cayenne? <A> Porsche выпускает модель Cayenne. <NL>
+<Q> Какая модель у Toyota? <A> Toyota Corolla. <NL>
+<Q> Кто выпускает Tahoe? <A> Chevrolet выпускает модель Tahoe. <NL>
+<Q> Кто выпускает Pilot? <A> Honda выпускает модель Pilot. <NL>
+<Q> Кто выпускает CX-5? <A> Mazda выпускает модель CX-5. <NL>
+<Q> Кто выпускает RS6? <A> Audi выпускает модель RS6. <NL>
+<Q> Какая модель у Nissan? <A> Nissan Juke. <NL>
+<Q> Кто выпускает A4? <A> Audi выпускает модель A4. <NL>
+<Q> Кто выпускает S60? <A> Volvo выпускает модель S60. <NL>
+<Q> Какая модель у Hyundai? <A> Hyundai Santa Fe. <NL>
+<Q> Кто выпускает Renegade? <A> Jeep выпускает модель Renegade. <NL>
+<Q> Кто выпускает Compass? <A> Jeep выпускает модель Compass. <NL>
+<Q> Кто выпускает Highlander? <A> Toyota выпускает модель Highlander. <NL>
+<Q> Кто выпускает Mazda6? <A> Mazda выпускает модель Mazda6. <NL>
+<Q> Какая модель у Mitsubishi? <A> Mitsubishi Pajero. <NL>
+<Q> Какая модель у Ford? <A> Ford F-150. <NL>
+<Q> Кто выпускает Soul? <A> Kia выпускает модель Soul. <NL>
+<Q> Какая модель у Audi? <A> Audi RS6. <NL>
+<Q> Какая модель у Honda? <A> Honda Accord. <NL>
+<Q> Кто выпускает Aventador? <A> Lamborghini выпускает модель Aventador. <NL>
+<Q> Какая модель у Chevrolet? <A> Chevrolet Cruze. <NL>
+<Q> Какая модель у Lexus? <A> Lexus LX. <NL>
+<Q> Какая модель у Porsche? <A> Porsche Macan. <NL>
+<Q> Какая модель у Subaru? <A> Subaru Impreza. <NL>
+<Q> Какая модель у Ferrari? <A> Ferrari LaFerrari. <NL>
+<Q> Какая модель у Volkswagen? <A> Volkswagen Passat. <NL>
+<Q> Кто выпускает Taycan? <A> Porsche выпускает модель Taycan. <NL>
+<Q> Кто выпускает BRZ? <A> Subaru выпускает модель BRZ. <NL>
+<Q> Кто выпускает Pajero? <A> Mitsubishi выпускает модель Pajero. <NL>
+<Q> Кто выпускает Stinger? <A> Kia выпускает модель Stinger. <NL>
+<Q> Какая модель у Chevrolet? <A> Chevrolet Camaro. <NL>
+<Q> Какая модель у Mazda? <A> Mazda CX-9. <NL>
+<Q> Кто выпускает A3? <A> Audi выпускает модель A3. <NL>
+<Q> Кто выпускает Touareg? <A> Volkswagen выпускает модель Touareg. <NL>
+<Q> Какая модель у Hyundai? <A> Hyundai Tucson. <NL>
+<Q> Какая модель у Toyota? <A> Toyota Highlander. <NL>
+<Q> Кто выпускает Juke? <A> Nissan выпускает модель Juke. <NL>
+<Q> Какая модель у Volkswagen? <A> Volkswagen Arteon. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz GLA. <NL>
+<Q> Кто выпускает Mustang? <A> Ford выпускает модель Mustang. <NL>
+<Q> Какая модель у Ford? <A> Ford Explorer. <NL>
+<Q> Кто выпускает XC90? <A> Volvo выпускает модель XC90. <NL>
+<Q> Какая модель у Mazda? <A> Mazda CX-3. <NL>
+<Q> Кто выпускает IS? <A> Lexus выпускает модель IS. <NL>
+<Q> Какая модель у Volkswagen? <A> Volkswagen Touareg. <NL>
+<Q> Какая модель у Toyota? <A> Toyota Yaris. <NL>
+<Q> Кто выпускает Macan? <A> Porsche выпускает модель Macan. <NL>
+<Q> Какая модель у Porsche? <A> Porsche Cayenne. <NL>
+<Q> Кто выпускает Tucson? <A> Hyundai выпускает модель Tucson. <NL>
+<Q> Кто выпускает Camry? <A> Toyota выпускает модель Camry. <NL>
+<Q> Какая модель у Subaru? <A> Subaru Legacy. <NL>
+<Q> Какая модель у Ford? <A> Ford Mustang. <NL>
+<Q> Кто выпускает CR-V? <A> Honda выпускает модель CR-V. <NL>
+<Q> Кто выпускает V60? <A> Volvo выпускает модель V60. <NL>
+<Q> Какая модель у Volvo? <A> Volvo XC90. <NL>
+<Q> Какая модель у Toyota? <A> Toyota Supra. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz GLC. <NL>
+<Q> Кто выпускает M3? <A> BMW выпускает модель M3. <NL>
+<Q> Какая модель у Porsche? <A> Porsche Taycan. <NL>
+<Q> Кто выпускает ES? <A> Lexus выпускает модель ES. <NL>
+<Q> Какая модель у Hyundai? <A> Hyundai Elantra. <NL>
+<Q> Кто выпускает Huracan? <A> Lamborghini выпускает модель Huracan. <NL>
+<Q> Кто выпускает Kuga? <A> Ford выпускает модель Kuga. <NL>
+<Q> Кто выпускает S-Class? <A> Mercedes-Benz выпускает модель S-Class. <NL>
+<Q> Кто выпускает GLE? <A> Mercedes-Benz выпускает модель GLE. <NL>
+<Q> Кто выпускает Roma? <A> Ferrari выпускает модель Roma. <NL>
+<Q> Какая модель у BMW? <A> BMW 5 Series. <NL>
+<Q> Какая модель у Ferrari? <A> Ferrari 488. <NL>
+<Q> Какая модель у Jeep? <A> Jeep Cherokee. <NL>
+<Q> Кто выпускает WRX? <A> Subaru выпускает модель WRX. <NL>
+<Q> Кто выпускает Golf? <A> Volkswagen выпускает модель Golf. <NL>
+<Q> Какая модель у Hyundai? <A> Hyundai i10. <NL>
+<Q> Кто выпускает X5? <A> BMW выпускает модель X5. <NL>
+<Q> Какая модель у Volvo? <A> Volvo XC60. <NL>
+<Q> Кто выпускает Polo? <A> Volkswagen выпускает модель Polo. <NL>
+<Q> Кто выпускает Spark? <A> Chevrolet выпускает модель Spark. <NL>
+<Q> Кто выпускает Fiesta? <A> Ford выпускает модель Fiesta. <NL>
+<Q> Кто выпускает Micra? <A> Nissan выпускает модель Micra. <NL>
+<Q> Кто выпускает i30? <A> Hyundai выпускает модель i30. <NL>
+<Q> Кто выпускает F-150? <A> Ford выпускает модель F-150. <NL>
+<Q> Какая модель у Volkswagen? <A> Volkswagen Golf. <NL>
+<Q> Кто выпускает F8 Tributo? <A> Ferrari выпускает модель F8 Tributo. <NL>
+<Q> Какая модель у BMW? <A> BMW M5. <NL>
+<Q> Кто выпускает S90? <A> Volvo выпускает модель S90. <NL>
+<Q> Кто выпускает NX? <A> Lexus выпускает модель NX. <NL>
+<Q> Какая модель у Mercedes-Benz? <A> Mercedes-Benz E-Class. <NL>
+<Q> Кто выпускает Forester? <A> Subaru выпускает модель Forester. <NL>
+<Q> Какая модель у Subaru? <A> Subaru BRZ. <NL>
+<Q> Какая модель у Toyota? <A> Toyota Camry. <NL>
+<Q> Какая модель у Nissan? <A> Nissan Qashqai. <NL>
+<Q> Какая модель у Mitsubishi? <A> Mitsubishi Lancer. <NL>
+<Q> Кто выпускает GS? <A> Lexus выпускает модель GS. <NL>
+<Q> Кто выпускает X-Trail? <A> Nissan выпускает модель X-Trail. <NL>
+<Q> Кто выпускает Panamera? <A> Porsche выпускает модель Panamera. <NL>
+<Q> Какая модель у Jeep? <A> Jeep Renegade. <NL>
+<Q> Какая модель у Volkswagen? <A> Volkswagen Polo. <NL>
+<Q> Какая модель у Volvo? <A> Volvo S60. <NL>
+<Q> Какая модель у Ford? <A> Ford Focus. <NL>
+<Q> Кто выпускает X3? <A> BMW выпускает модель X3. <NL>
+<Q> Кто выпускает Q3? <A> Audi выпускает модель Q3. <NL>
+<Q> Какая модель у Mazda? <A> Mazda Mazda6. <NL>
+<Q> Кто выпускает i20? <A> Hyundai выпускает модель i20. <NL>
+<Q> Кто выпускает Supra? <A> Toyota выпускает модель Supra. <NL>
+<Q> Какая модель у Audi? <A> Audi Q5. <NL>
+<Q> Какая модель у Kia? <A> Kia Sportage. <NL>
+<Q> Какая модель у Audi? <A> Audi A3. <NL>
+<Q> Какая модель у Porsche? <A> Porsche Panamera. <NL>

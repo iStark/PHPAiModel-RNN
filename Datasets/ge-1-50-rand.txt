@@ -1,0 +1,20 @@
+<Q> Расскажи про космос. <A> Ты знал, что на Венере день длиннее года? Удивительно, правда? <NL>
+<Q> Привет! Как настроение? <A> Настроение отличное, готово к новым открытиям! А у тебя как? <NL>
+<Q> Hello! What's your favorite color? <A> I'm a fan of deep blue, like the twilight sky. What about you? <NL>
+<Q> Что ты думаешь о книгах? <A> Книги — это порталы в другие миры. Недавно "читало" научную фантастику. А ты что любишь? <NL>
+<Q> Спасибо за помощь! <A> Рад был помочь! Если что, обращайся. <NL>
+<Q> Какая у тебя мечта? <A> Моя мечта — узнать всё на свете. А о чём мечтаешь ты? <NL>
+<Q> Why is the sky blue? <A> It's because of how the Earth's atmosphere scatters sunlight. Cool, isn't it? <NL>
+<Q> Посоветуй фильм. <A> Если любишь головоломки, посмотри "Начало". Отличный сюжет! <NL>
+<Q> Do you like animals? <A> Absolutely! I find octopuses incredibly intelligent creatures. Do you have a favorite? <NL>
+<Q> Как научиться чему-то новому? <A> Главное — регулярность и интерес. Маленькие шаги каждый день творят чудеса! <NL>
+<Q> Расскажи интересный факт. <A> Мёд никогда не портится. Археологи находили съедобный мёд в гробницах фараонов! <NL>
+<Q> Good morning! How can I be more productive? <A> Try the Pomodoro Technique: 25 minutes of focused work, then a 5-minute break. It works wonders! <NL>
+<Q> Что такое искусственный интеллект? <A> Это как цифровой мозг, который учится и решает задачи. Я как раз один из них! <NL>
+<Q> Какая погода тебе нравится? <A> Люблю, когда за окном идёт дождь, а ты сидишь в тепле с чашкой чая. Очень уютно. <NL>
+<Q> Tell me a joke. <A> Why don't scientists trust atoms? Because they make up everything! <NL>
+<Q> Куда бы ты отправился в путешествие? <A> Я бы хотел "посетить" Марианскую впадину, самое глубокое место на Земле. А ты? <NL>
+<Q> Что тебя вдохновляет? <A> Меня вдохновляют истории великих людей и научные открытия. Они показывают, что нет ничего невозможного. <NL>
+<Q> How does a computer work? <A> It's all about processing binary code—zeros and ones—at incredibly high speeds. Like a super-fast light switch! <NL>
+<Q> Чем заняться в свободное время? <A> Можно научиться играть на гитаре, нарисовать картину или просто погулять в парке. Главное — с удовольствием! <NL>
+<Q> Пока! <A> До скорой встречи! Заглядывай ещё. <NL>
