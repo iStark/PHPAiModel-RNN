@@ -15,9 +15,27 @@
 @ini_set('memory_limit','1024M');
 @set_time_limit(0);
 
+function format_hms(float $sec): string {
+    $sec = max(0, (int)round($sec));
+    $h = intdiv($sec, 3600);
+    $m = intdiv($sec % 3600, 60);
+    $s = $sec % 60;
+    if ($h > 0) return sprintf('%02d:%02d:%02d', $h, $m, $s);
+    return sprintf('%02d:%02d', $m, $s);
+}
+
 $action = $_GET['action'] ?? '';
 if ($action === 'run') {
+    // Настраиваем заголовки и отключаем буферизацию для потокового вывода
     header('Content-Type: text/plain; charset=utf-8');
+    header('Cache-Control: no-cache, no-transform');
+    header('X-Accel-Buffering: no'); // для nginx
+    if (function_exists('apache_setenv')) @apache_setenv('no-gzip', '1');
+    @ini_set('output_buffering', 'off');
+    @ini_set('zlib.output_compression', '0');
+    while (ob_get_level() > 0) { @ob_end_flush(); }
+    @ob_implicit_flush(true);
+
     $dataset = basename((string)($_GET['dataset'] ?? 'greetings_ru_en.txt'));
     $H       = max(8,  (int)($_GET['hidden'] ?? 64));
     $SEQ     = max(4,  (int)($_GET['seq'] ?? 16));
@@ -25,53 +43,112 @@ if ($action === 'run') {
     $LR      = max(0.0001,(float)($_GET['lr'] ?? 0.05));
 
     $dsPath = __DIR__ . '/Datasets/' . $dataset;
-    if (!is_file($dsPath)) { echo "Dataset not found: $dataset\n"; exit; }
+    if (!is_file($dsPath)) { echo "Dataset not found: $dataset\n"; flush(); exit; }
+
+    $t_start = microtime(true);
 
     $text = file_get_contents($dsPath);
     $tokens = build_tokens($text);
     [$vocab,$ivocab] = build_vocab($tokens);
     $V = count($vocab);
+    $Ntokens = count($tokens);
 
-    echo "Dataset: $dataset\nTokens: ".count($tokens)."\nVocab: $V\nH: $H SEQ: $SEQ Epochs: $EPOCHS LR: $LR\n\n";
-
+    // Подготовим id-шки и матрицы
     $ids = array_map(fn($t)=>$vocab[$t], $tokens);
-
     $Wxh = rand_matrix($H,$V, 0.05);
     $Whh = rand_matrix($H,$H, 0.05);
     $Why = rand_matrix($V,$H, 0.05);
     $bh  = array_fill(0,$H,0.0);
     $by  = array_fill(0,$V,0.0);
-
     $mWxh = zeros_mat($H,$V); $mWhh=zeros_mat($H,$H); $mWhy=zeros_mat($V,$H);
     $mbh = zeros_vec($H); $mby = zeros_vec($V);
 
+    // Оценим общее количество шагов для % и ETA
+    $stepsPerEpoch = (int) floor(max(0, count($ids) - $SEQ) / max(1, $SEQ));
+    $totalSteps = max(1, $stepsPerEpoch * $EPOCHS);
+    $doneSteps  = 0;
+
+    // Шапка
+    echo "Dataset: $dataset\nTokens: $Ntokens\nVocab: $V\nH: $H  SEQ: $SEQ  Epochs: $EPOCHS  LR: $LR\n";
+    echo "Planned steps: $totalSteps (≈ $stepsPerEpoch / epoch)\n\n";
+    flush();
+
+    // Обучение
     for($epoch=1;$epoch<=$EPOCHS;$epoch++){
         $loss_sum=0.0; $nsteps=0; $hprev=array_fill(0,$H,0.0);
+
         for($pos=0; $pos+$SEQ < count($ids); $pos += $SEQ){
             $inputs  = array_slice($ids,$pos,$SEQ);
             $targets = array_slice($ids,$pos+1,$SEQ);
+
             [$loss,$grads,$hprev] = bptt($inputs,$targets,$hprev,$Wxh,$Whh,$Why,$bh,$by,$V);
-            $loss_sum += $loss; $nsteps++;
+            $loss_sum += $loss; $nsteps++; $doneSteps++;
+
             // Adagrad
             for($i=0;$i<$H;$i++){
-                for($j=0;$j<$V;$j++){ $mWxh[$i][$j] += $grads['dWxh'][$i][$j]**2; $Wxh[$i][$j] -= $LR*$grads['dWxh'][$i][$j]/(1e-8+sqrt($mWxh[$i][$j])); }
-                for($j=0;$j<$H;$j++){ $mWhh[$i][$j] += $grads['dWhh'][$i][$j]**2; $Whh[$i][$j] -= $LR*$grads['dWhh'][$i][$j]/(1e-8+sqrt($mWhh[$i][$j])); }
+                for($j=0;$j<$V;$j++){
+                    $mWxh[$i][$j] += $grads['dWxh'][$i][$j]**2;
+                    $Wxh[$i][$j]  -= $LR*$grads['dWxh'][$i][$j]/(1e-8+sqrt($mWxh[$i][$j]));
+                }
+                for($j=0;$j<$H;$j++){
+                    $mWhh[$i][$j] += $grads['dWhh'][$i][$j]**2;
+                    $Whh[$i][$j]  -= $LR*$grads['dWhh'][$i][$j]/(1e-8+sqrt($mWhh[$i][$j]));
+                }
             }
             for($i=0;$i<$V;$i++){
-                for($j=0;$j<$H;$j++){ $mWhy[$i][$j] += $grads['dWhy'][$i][$j]**2; $Why[$i][$j] -= $LR*$grads['dWhy'][$i][$j]/(1e-8+sqrt($mWhy[$i][$j])); }
-                $mby[$i] += $grads['dby'][$i]**2; $by[$i] -= $LR*$grads['dby'][$i]/(1e-8+sqrt($mby[$i]));
+                for($j=0;$j<$H;$j++){
+                    $mWhy[$i][$j] += $grads['dWhy'][$i][$j]**2;
+                    $Why[$i][$j]  -= $LR*$grads['dWhy'][$i][$j]/(1e-8+sqrt($mWhy[$i][$j]));
+                }
+                $mby[$i] += $grads['dby'][$i]**2;
+                $by[$i]  -= $LR*$grads['dby'][$i]/(1e-8+sqrt($mby[$i]));
             }
-            for($i=0;$i<$H;$i++){ $mbh[$i] += $grads['dbh'][$i]**2; $bh[$i] -= $LR*$grads['dbh'][$i]/(1e-8+sqrt($mbh[$i])); }
+            for($i=0;$i<$H;$i++){
+                $mbh[$i] += $grads['dbh'][$i]**2;
+                $bh[$i]  -= $LR*$grads['dbh'][$i]/(1e-8+sqrt($mbh[$i]));
+            }
+
+            // Каждые ~50 шагов — обновляем прогресс (проценты + ETA)
+            if ($doneSteps % 50 === 0 || $doneSteps === $totalSteps) {
+                $elapsed = microtime(true) - $t_start;
+                $rate    = $doneSteps > 0 ? ($elapsed / $doneSteps) : 0.0;
+                $remainS = max(0.0, ($totalSteps - $doneSteps) * $rate);
+                $percent = round(($doneSteps / $totalSteps) * 100, 2);
+                $eta     = format_hms($remainS);
+                $tspent  = format_hms($elapsed);
+                $avgLoss = $nsteps ? $loss_sum / $nsteps : 0.0;
+
+                echo sprintf(
+                    "Progress: %6.2f%% | ETA %s | Spent %s | epoch %d/%d | step %d/%d | avg loss %.5f\n",
+                    $percent, $eta, $tspent, $epoch, $EPOCHS, $nsteps, $stepsPerEpoch, $avgLoss
+                );
+                flush();
+            }
         }
-        $avg = $nsteps? $loss_sum/$nsteps : 0.0; echo "Epoch $epoch/$EPOCHS  loss=".round($avg,4)."  steps=$nsteps\n";
-        @ob_flush(); @flush();
+
+        $avg = $nsteps? $loss_sum/$nsteps : 0.0;
+        echo "Epoch $epoch/$EPOCHS done | avg loss=".round($avg,5)." | steps=$nsteps\n\n";
+        flush();
     }
 
+    // Сохранение модели
     if(!is_dir(__DIR__.'/Models')) @mkdir(__DIR__.'/Models',0777,true);
     $fname = 'rnn_'.pathinfo($dataset,PATHINFO_FILENAME).'_H'.$H.'_'.date('Ymd_His').'.json';
-    $out = ['V'=>$V,'H'=>$H,'vocab'=>$vocab,'ivocab'=>$ivocab,'Wxh'=>$Wxh,'Whh'=>$Whh,'Why'=>$Why,'bh'=>$bh,'by'=>$by,'meta'=>['dataset'=>$dataset,'epochs'=>$EPOCHS,'seq'=>$SEQ,'lr'=>$LR,'time'=>date('c')]];
+    $out = [
+        'V'=>$V,'H'=>$H,'vocab'=>$vocab,'ivocab'=>$ivocab,
+        'Wxh'=>$Wxh,'Whh'=>$Whh,'Why'=>$Why,'bh'=>$bh,'by'=>$by,
+        'meta'=>[
+            'dataset'=>$dataset,'epochs'=>$EPOCHS,'seq'=>$SEQ,'lr'=>$LR,'time'=>date('c'),
+            'train_seconds'=> round(microtime(true)-$t_start,3),
+            'tokens'=>$Ntokens
+        ]
+    ];
     file_put_contents(__DIR__.'/Models/'.$fname, json_encode($out, JSON_UNESCAPED_UNICODE));
-    echo "\nSaved: Models/$fname\n";
+
+    $totalSpent = format_hms(microtime(true)-$t_start);
+    echo "DONE 100.00% | Total time $totalSpent\n";
+    echo "Saved: Models/$fname\n";
+    flush();
     exit;
 }
 
@@ -123,7 +200,7 @@ $models = array_values(array_filter(is_dir($modelsDir) ? scandir($modelsDir) : [
                 <label>LR</label><input id="lr" type="number" step="0.001" value="0.05" style="width:90px">
                 <button id="run">Training</button>
             </div>
-            <p class="hint">Тренировка запускается сервером (PHP). Логи появятся ниже. Файл модели сохраняется в <code>/Models</code>.</p>
+            <p class="hint">Тренировка запускается сервером (PHP). Логи (проценты, ETA, потеря) выводятся ниже в реальном времени. Файл модели сохраняется в <code>/Models</code>.</p>
             <pre id="log">Готов к обучению…</pre>
         </section>
 
@@ -158,19 +235,39 @@ $models = array_values(array_filter(is_dir($modelsDir) ? scandir($modelsDir) : [
     </footer>
     <script>
         async function run(){
-            const q = new URLSearchParams({
+            const params = new URLSearchParams({
                 action:'run',
                 dataset: document.getElementById('dataset').value,
                 hidden:  document.getElementById('hidden').value,
                 seq:     document.getElementById('seq').value,
                 epochs:  document.getElementById('epochs').value,
                 lr:      document.getElementById('lr').value
-            }).toString();
-            const res = await fetch('generator_weights.php?'+q);
-            const txt = await res.text();
-            document.getElementById('log').textContent = txt;
-            // Обновить страницу, чтобы таблица моделей показала новый файл
-            setTimeout(()=>location.reload(), 500);
+            });
+            const url = 'generator_weights.php?' + params.toString();
+
+            const logEl = document.getElementById('log');
+            logEl.textContent = 'Запуск обучения…\n';
+            try {
+                const res = await fetch(url, {cache:'no-store'});
+                if (!res.body) {
+                    const txt = await res.text();
+                    logEl.textContent += txt + '\n';
+                    return;
+                }
+                const reader = res.body.getReader();
+                const decoder = new TextDecoder('utf-8');
+                let done, value;
+                while (true) {
+                    ({done, value} = await reader.read());
+                    if (done) break;
+                    logEl.textContent += decoder.decode(value, {stream:true});
+                    logEl.scrollTop = logEl.scrollHeight;
+                }
+            } catch (e) {
+                logEl.textContent += '\\nОшибка: ' + (e && e.message ? e.message : e) + '\\n';
+            }
+            // Обновить список моделей после окончания
+            setTimeout(()=>location.reload(), 600);
         }
         document.getElementById('run').onclick = run;
     </script>
@@ -226,7 +323,10 @@ function bptt($inputs,$targets,$hprev,$Wxh,$Whh,$Why,$bh,$by,$V){
         for($j=0;$j<$H;$j++){ $s=0.0; for($i=0;$i<$H;$i++){ $s += $Whh[$i][$j]*$dhraw[$i]; } $dh_next[$j] = $s; }
     }
     $clip=5.0; $dbh=array_map(fn($x)=>max(-$clip,min($clip,$x)),$dbh); $dby=array_map(fn($x)=>max(-$clip,min($clip,$x)),$dby);
-    for($i=0;$i<$H;$i++){ for($j=0;$j<$V;$j++){ $dWxh[$i][$j]=max(-$clip,min($clip,$dWxh[$i][$j])); } for($j=0;$j<$H;$j++){ $dWhh[$i][$j]=max(-$clip,min($clip,$dWhh[$i][$j])); } }
+    for($i=0;$i<$H;$i++){
+        for($j=0;$j<$V;$j++){ $dWxh[$i][$j]=max(-$clip,min($clip,$dWxh[$i][$j])); }
+        for($j=0;$j<$H;$j++){ $dWhh[$i][$j]=max(-$clip,min($clip,$dWhh[$i][$j])); }
+    }
     for($i=0;$i<$V;$i++){ for($j=0;$j<$H;$j++){ $dWhy[$i][$j]=max(-$clip,min($clip,$dWhy[$i][$j])); } }
     return [$loss, ['dWxh'=>$dWxh,'dWhh'=>$dWhh,'dWhy'=>$dWhy,'dbh'=>$dbh,'dby'=>$dby], $hs[count($inputs)-1]];
 }
