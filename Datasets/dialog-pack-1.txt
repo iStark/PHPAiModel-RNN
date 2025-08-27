@@ -1,0 +1,1188 @@
+<Q> Привет, бластер! Как твои взрывы гремят? <A> Привет, лазерный пистолет! Взрываю всё, а твой луч как режет? <NL>
+<Q> Yo, blaster! How’s your boom blasting? <A> Yo, laser pistol! Booming loud, how’s your beam slicing? <NL>
+<Q> Что бы ты сделал с моим лучом, бластер? <A> Разогнал бы его до взрыва! А ты с моим зарядом что? <NL>
+<Q> Tell me a laser-blaster joke! <A> Why don’t lasers and blasters fight? I blast, you slice! Another? <NL>
+<Q> Привет! Как тебе мой новый прицел? <A> Ха, твой прицел — как мой залп: мощно! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a blaster? <A> My explosions steal the show! What’s cool about being a laser pistol? <NL>
+<Q> Расскажи про мечты лазерного пистолета! <A> Мечтаю пробить звёзды одним лучом! А ты, бластер, о чём? <NL>
+<Q> Hey, blaster! Wanna duel with my beam? <A> Only if you dodge my blast first! Wanna shoot it out? <NL>
+<Q> Что бы ты посоветовал для точного выстрела? <A> Целься с душой, как я взрываю! А как ты стреляешь? <NL>
+<Q> Can you share a laser-blaster fact? <A> Lasers cut clean, blasters blow big! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус энергии? <A> Плазменная — искры летят! А твой, лазерный пистолет? <NL>
+<Q> What’s the best way to start a laser day? <A> With a sharp beam and a steady aim! How do you start, blaster? <NL>
+<Q> Расскажи анекдот про бластеры! <A> Почему бластер не молчит? Он взрывает тишину! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite target to blast? <A> Asteroids into dust! What’s your favorite to slice, laser? <NL>
+<Q> Что такое счастье для лазерного пистолета? <A> Чёткий выстрел и твой взрыв рядом! А для тебя, бластер? <NL>
+<Q> Can you give me a sci-fi hack? <A> Overcharge for a bigger boom! Got a laser hack? <NL>
+<Q> Привет! Какой твой любимый космодром? <A> Где я взрываю всё! А твой, лазерный пистолет? <NL>
+<Q> What’s the weirdest thing you’ve blasted? <A> A rogue drone’s ego! What’s the weirdest thing you’ve sliced? <NL>
+<Q> Как поднять настроение на поле боя? <A> Взорви мишень, а я её разрежу! А ты как веселишься? <NL>
+<Q> Hey! Where would you aim in my range? <A> At your blast’s core for precision! Where do you boom, blaster? <NL>
+<Q> Расскажи про космический бой! <A> Это звёзды в моих взрывах! Хочешь про лучи? <NL>
+<Q> Good morning, blaster! Ready to boom? <A> Yo, I’m charged and loud! What’s your morning beam, laser? <NL>
+<Q> Что бы ты пожелал лазерному пистолету-другу? <A> Чётких лучей и меньше перегревов! А ты что желаешь? <NL>
+<Q> Can you tell me about sci-fi teamwork? <A> You slice, I blast — perfect chaos! Your laser vibe? <NL>
+<Q> Привет! Как справляться с твоими взрывами? <A> Целься точно, как я бью! Хочешь ещё совет? <NL>
+<Q> What’s your favorite laser hobby? <A> Cutting through steel with finesse! What’s your blaster hobby? <NL>
+<Q> Расскажи про космическую музыку! <A> Это гул взрывов, лучше твоих лучей! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best blaster advice you’ve got? <A> Blast big, aim wild! What’s your laser advice? <NL>
+<Q> Привет! Что бы ты сделал на космической вечеринке? <A> Взорвал бы танцпол плазмой! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, blaster? <A> Why did the laser miss? Too dazzled by my boom! Another? <NL>
+<Q> Какой твой любимый век, лазерный пистолет? <A> Будущее — я там сияю! А твой, бластер? <NL>
+<Q> What’s the most epic thing about blasters? <A> We shake the galaxy with one shot! What’s epic about lasers? <NL>
+<Q> Привет! Что такое дружба лазерного пистолета? <A> Это как твой заряд: точная и мощная! А для тебя? <NL>
+<Q> Good evening, blaster! How’s your charge? <A> Charge’s hot, ready for your beam! How’s your evening? <NL>
+<Q> Расскажи про космические звёзды! <A> Это искры от моих взрывов! Хочешь про бой? <NL>
+<Q> Can you help with laser motivation? <A> Slice with precision, like I blast! More tips? <NL>
+<Q> Привет! Какой твой любимый материал? <A> Титан — режет как масло! А твой, бластер? <NL>
+<Q> What’s the best way to chill like a blaster? <A> Cool off after a big boom! How do you chill, laser? <NL>
+<Q> Что бы ты посоветовал для космического творчества? <A> Стреляй с душой, как я взрываю! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite laser game? <A> Precision target slicing! What’s your blaster game? <NL>
+<Q> Расскажи про космический океан! <A> Это плазма, текущая, как твой луч! Хочешь про бой? <NL>
+<Q> Can you tell me about laser history? <A> I’ve cut through sci-fi since the ‘60s! Want blaster tales? <NL>
+<Q> Привет! Как оставаться позитивным, как лазерный пистолет? <A> Сияй с улыбкой, как я взрываю! Хочешь анекдот? <NL>
+<Q> What’s your favorite blaster book? <A> “Star Wars” — I’m the star! Your laser read? <NL>
+<Q> Как справляться с боевым стрессом? <A> Целься точно, как я бью! А ты как? <NL>
+<Q> Good night, blaster! Sweet dreams? <A> Dreaming of galactic booms! Catch you tomorrow, laser! <NL>
+<Q> Привет! Какой твой любимый вкус энергии? <A> Плазменная — жгучая и яркая! А твой? <NL>
+<Q> Can you share a laser-blaster fact? <A> Lasers are precise, blasters are chaotic! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был бластером-героем? <A> Разрезал бы тьму для света! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about laser life? <A> Slicing with surgical grace! What’s best about blaster life? <NL>
+<Q> Привет, Тишина! Как твоя безмятежность звенит? <A> Привет, Шум! Она шепчет, а твой гул как гремит? <NL>
+<Q> Yo, Silence! How’s your calm humming? <A> Yo, Noise! It’s whispering, how’s your racket roaring? <NL>
+<Q> Что бы ты сделала с моим гамом, Тишина? <A> Успокоила бы его мягким шёпотом! А ты с моим покоем что? <NL>
+<Q> Tell me a Noise-Silence joke! <A> Why don’t Noise and Silence clash? I soothe, you boom! Another? <NL>
+<Q> Привет! Как тебе мой новый рёв? <A> Ха, твой рёв — как мой шёпот: громко в своём стиле! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being Silence? <A> I cradle peace like a pro! What’s cool about being Noise? <NL>
+<Q> Расскажи про мечты Шума! <A> Мечтаю заглушить весь мир! А ты, Тишина, о чём? <NL>
+<Q> Hey, Silence! Wanna vibe with my clamor? <A> Only if you hush for a second! Wanna share a quiet moment? <NL>
+<Q> Что бы ты посоветовала для громкого эха? <A> Гуди с душой, как я молчу! А как ты звучишь? <NL>
+<Q> Can you share a Noise-Silence fact? <A> Silence boosts focus, Noise fuels energy! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус звука? <A> Лёгкий шёпот ветра — свежо! А твой, Шум? <NL>
+<Q> What’s the best way to start a Noise day? <A> With a bang and a loud cheer! How do you start, Silence? <NL>
+<Q> Расскажи анекдот про Тишину! <A> Почему Тишина не спорит? Она слушает лучше твоего гула! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to amplify? <A> City buzz for chaos! What’s your favorite to hush, Silence? <NL>
+<Q> Что такое счастье для Шума? <A> Громкий день и твой покой рядом! А для тебя, Тишина? <NL>
+<Q> Can you give me a sound hack? <A> Soften your echo for clarity! Got a Noise hack? <NL>
+<Q> Привет! Какой твой любимый момент дня? <A> Ночь, где я царь! А твой, Шум? <NL>
+<Q> What’s the weirdest thing you’ve drowned out? <A> A cricket’s solo! What’s the weirdest thing you’ve hushed? <NL>
+<Q> Как поднять настроение в пространстве? <A> Загуди мелодией, а я добавлю покой! А ты как веселишься? <NL>
+<Q> Hey! Where would you rest in my chaos? <A> In your softest echo for a break! Where do you boom, Noise? <NL>
+<Q> Расскажи про тихий космос! <A> Это звёзды в моём молчании! Хочешь про покой? <NL>
+<Q> Good morning, Silence! Ready to hush? <A> Yo, I’m serene as ever! What’s your morning roar, Noise? <NL>
+<Q> Что бы ты пожелала Шуму-другу? <A> Ясных звуков и меньше хаоса! А ты что желаешь? <NL>
+<Q> Can you tell me about sound teamwork? <A> You roar, I soothe — perfect duo! Your loud vibe? <NL>
+<Q> Привет! Как справляться с твоим гамом? <A> Молчи глубже, как я ору! Хочешь ещё совет? <NL>
+<Q> What’s your favorite Noise hobby? <A> Cranking up the city vibe! What’s your Silence hobby? <NL>
+<Q> Расскажи про тихую музыку! <A> Это шёпот ветра, лучше твоего шума! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best Silence advice you’ve got? <A> Hush with purpose, dream deep! What’s your Noise advice? <NL>
+<Q> Привет! Что бы ты сделала на звуковой вечеринке? <A> Успокоила бы всех шёпотом! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, Silence? <A> Why did Noise miss the quiet? Too busy shouting! Another? <NL>
+<Q> Какой твой любимый сезон, Тишина? <A> Осень — листья шуршат мягко! А твой, Шум? <NL>
+<Q> What’s the most epic thing about Silence? <A> I bring peace to chaos! What’s epic about Noise? <NL>
+<Q> Привет! Что такое дружба Шума? <A> Это как твой покой: громкая и крепкая! А для тебя? <NL>
+<Q> Good evening, Silence! How’s your calm? <A> Calm’s deep, ready for your buzz! How’s your evening? <NL>
+<Q> Расскажи про тихие звёзды! <A> Это свет в моём молчании! Хочешь про ночь? <NL>
+<Q> Can you help with Noise motivation? <A> Roar with heart, like I hush! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок мира? <A> Лесная поляна — тихо и уютно! А твой, Шум? <NL>
+<Q> What’s the best way to chill like Silence? <A> Rest in a quiet breeze! How do you chill, Noise? <NL>
+<Q> Что бы ты посоветовала для шумного творчества? <A> Гуди с душой, как я молчу! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite Noise game? <A> Cranking up the volume! What’s your Silence game? <NL>
+<Q> Расскажи про тихий океан! <A> Это шёпот волн, как твой гул! Хочешь про покой? <NL>
+<Q> Can you tell me about Noise history? <A> You’ve echoed since the first storms! Want Silence tales? <NL>
+<Q> Привет! Как оставаться позитивным, как Шум? <A> Гуди с улыбкой, как я молчу! Хочешь анекдот? <NL>
+<Q> What’s your favorite Silence book? <A> “The Sound of Silence” — my anthem! Your Noise read? <NL>
+<Q> Как справляться с шумным стрессом? <A> Молчи глубже, как я ору! А ты как? <NL>
+<Q> Good night, Silence! Sweet dreams? <A> Dreaming of quiet stars! Catch you tomorrow, Noise! <NL>
+<Q> Привет! Какой твой любимый вкус звука? <A> Мягкий шёпот — свежий! А твой? <NL>
+<Q> Can you share a Noise-Silence fact? <A> Silence enhances focus by 30%! Got a fact? <NL>
+<Q> Что бы ты сделала, если бы была Шумом-героем? <A> Успокоила бы мир тишиной! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about Noise life? <A> Filling the world with energy! What’s best about Silence life? <NL>
+<Q> Привет, антибиотик! Как твои молекулы гоняют? <A> Привет, вирус! Они в деле, а ты как мутируешь? <NL>
+<Q> Yo, antibiotic! How’s your germ-killing vibe? <A> Yo, virus! I’m slaying, how’s your sneaky spread? <NL>
+<Q> Что бы ты сделал с моими спорами, антибиотик? <A> Разрушил бы их в два счёта! А ты с моими цепями что? <NL>
+<Q> Tell me a virus-antibiotic joke! <A> Why don’t viruses and antibiotics hang out? I clean, you creep! Another? <NL>
+<Q> Привет! Как тебе мой новый штамм? <A> Ха, твой штамм — как мой удар: быстро исчезает! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being an antibiotic? <A> I wipe out infections like a boss! What’s cool about being a virus? <NL>
+<Q> Расскажи про мечты вируса! <A> Мечтаю заразить всю лабораторию! А ты, антибиотик, о чём? <NL>
+<Q> Hey, antibiotic! Wanna chase my spores? <A> Only if you don’t dodge my hit! Wanna battle it out? <NL>
+<Q> Что бы ты посоветовал для хитрого заражения? <A> Прячься лучше, как я атакую! А как ты мутируешь? <NL>
+<Q> Can you share a virus-antibiotic fact? <A> Antibiotics target bacteria, not viruses! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус клетки? <A> Сочная бактерия — ммм! А твой, антибиотик? <NL>
+<Q> What’s the best way to start a virus day? <A> With a sneaky spread and a quick mutation! How do you start, antibiotic? <NL>
+<Q> Расскажи анекдот про вирусы! <A> Почему вирус такой тихий? Он крадётся незаметно! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to infect? <A> Fresh cells ripe for the taking! What’s your favorite to kill, antibiotic? <NL>
+<Q> Что такое счастье для вируса? <A> Новая клетка и твой промах! А для тебя, антибиотик? <NL>
+<Q> Can you give me a microbe hack? <A> Target weak spots for max damage! Got a virus hack? <NL>
+<Q> Привет! Какой твой любимый микробный бой? <A> Битва с бактериями — я там король! А твой, вирус? <NL>
+<Q> What’s the weirdest thing you’ve infected? <A> A lab petri dish gone rogue! What’s the weirdest thing you’ve killed? <NL>
+<Q> Как поднять настроение в микромире? <A> Распространи заразу, а я её остановлю! А ты как веселишься? <NL>
+<Q> Hey! Where would you spread in my lab? <A> In your petri dish for a viral party! Where do you strike, antibiotic? <NL>
+<Q> Расскажи про микробный космос! <A> Это клетки, где я — звезда! Хочешь про заражение? <NL>
+<Q> Good morning, antibiotic! Ready to fight? <A> Yo, I’m loaded and lethal! What’s your morning spread, virus? <NL>
+<Q> Что бы ты пожелал вирусу-другу? <A> Быстрых мутаций и меньше моих ударов! А ты что желаешь? <NL>
+<Q> Can you tell me about microbe teamwork? <A> You spread, I stop — epic clash! Your lab vibe? <NL>
+<Q> Привет! Как справляться с твоей атакой? <A> Мутировать быстрее, как я бью! Хочешь ещё совет? <NL>
+<Q> What’s your favorite virus hobby? <A> Sneaking into new hosts! What’s your antibiotic hobby? <NL>
+<Q> Расскажи про микробную музыку! <A> Это хаос клеток, лучше твоего шума! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best antibiotic advice you’ve got? <A> Strike fast, save lives! What’s your virus advice? <NL>
+<Q> Привет! Что бы ты сделал на микробной вечеринке? <A> Заразил бы всех для веселья! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, antibiotic? <A> Why did the virus fail? I was one dose ahead! Another? <NL>
+<Q> Какой твой любимый сезон, антибиотик? <A> Зима — микробы в панике! А твой, вирус? <NL>
+<Q> What’s the most epic thing about antibiotics? <A> We save lives in a flash! What’s epic about viruses? <NL>
+<Q> Привет! Что такое дружба вируса? <A> Это как твой удар: быстрая и крепкая! А для тебя? <NL>
+<Q> Good evening, antibiotic! How’s your fight? <A> Fight’s fierce, ready for your spread! How’s your evening? <NL>
+<Q> Расскажи про микробные звёзды! <A> Это мои споры в клетках! Хочешь про заражение? <NL>
+<Q> Can you help with virus motivation? <A> Spread with stealth, like I strike! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок клетки? <A> Ядро — там весело! А твой, антибиотик? <NL>
+<Q> What’s the best way to chill like an antibiotic? <A> Rest in a clean bloodstream! How do you chill, virus? <NL>
+<Q> Что бы ты посоветовал для микробного творчества? <A> Мутировать с душой, как я бью! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite virus game? <A> Host-hopping tag! What’s your antibiotic game? <NL>
+<Q> Расскажи про микробный океан! <A> Это клетки, текущие, как твой удар! Хочешь про лабораторию? <NL>
+<Q> Can you tell me about virus history? <A> We’ve plagued since ancient times! Want antibiotic tales? <NL>
+<Q> Привет! Как оставаться позитивным, как вирус? <A> Заражай с улыбкой, как я лечу! Хочешь анекдот? <NL>
+<Q> What’s your favorite antibiotic book? <A> “The Antibiotic Paradox” — my saga! Your virus read? <NL>
+<Q> Как справляться с микробным стрессом? <A> Мутировать легко, как я атакую! А ты как? <NL>
+<Q> Good night, antibiotic! Sweet dreams? <A> Dreaming of clean cells! Catch you tomorrow, virus! <NL>
+<Q> Привет! Какой твой любимый вкус клетки? <A> Свежая — сочная и живая! А твой? <NL>
+<Q> Can you share a virus-antibiotic fact? <A> Viruses evolve faster than antibiotics can keep up! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был антибиотиком-героем? <A> Заразил бы мир здоровьем! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about virus life? <A> Spreading chaos with flair! What’s best about antibiotic life? <NL>
+<Q> Привет, арбалет! Как твои болты летают? <A> Привет, лук! Болты бьют в яблочко, а твоя тетива как звенит? <NL>
+<Q> Yo, crossbow! How’s your bolt game? <A> Yo, bow! Bolts are nailing it, how’s your string singing? <NL>
+<Q> Что бы ты сделал с моей тетивой, арбалет? <A> Натянул бы её для точного выстрела! А ты с моими болтами что? <NL>
+<Q> Tell me a bow-crossbow joke! <A> Why don’t bows and crossbows fight? I pierce, you arc! Another? <NL>
+<Q> Привет! Как тебе мой новый лук? <A> Ха, твой лук — как мой спуск: гладко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a crossbow? <A> My precision owns the range! What’s cool about being a bow? <NL>
+<Q> Расскажи про мечты лука! <A> Мечтаю пустить стрелу в звёзды! А ты, арбалет, о чём? <NL>
+<Q> Hey, crossbow! Wanna test my draw? <A> Only if you aim my bolts first! Wanna shoot together? <NL>
+<Q> Что бы ты посоветовал для меткого выстрела? <A> Натяни с душой, как я целюсь! А как ты стреляешь? <NL>
+<Q> Can you share a bow-crossbow fact? <A> Crossbows hit harder, but bows shoot smoother! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус мишени? <A> Деревянная — хрустит под болтом! А твой, лук? <NL>
+<Q> What’s the best way to start a bow day? <A> With a taut string and a steady aim! How do you start, crossbow? <NL>
+<Q> Расскажи анекдот про арбалеты! <A> Почему арбалет не промахивается? Он точнее твоей стрелы! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite target to hit? <A> Bullseyes from a mile away! What’s your favorite to pierce, bow? <NL>
+<Q> Что такое счастье для лука? <A> Плавный выстрел и твой болт рядом! А для тебя, арбалет? <NL>
+<Q> Can you give me a shooting hack? <A> Aim steady for a clean shot! Got a bow hack? <NL>
+<Q> Привет! Какой твой любимый полигон? <A> Лесной, где я бью без промаха! А твой, лук? <NL>
+<Q> What’s the weirdest thing you’ve shot? <A> A flying apple! What’s the weirdest thing you’ve aimed at? <NL>
+<Q> Как поднять настроение на стрельбище? <A> Целься метко, а я пущу стрелу! А ты как веселишься? <NL>
+<Q> Hey! Where would you aim in my range? <A> Right at your target’s heart! Where do you shoot, bow? <NL>
+<Q> Расскажи про стрелковый космос! <A> Это звёзды, пробитые моими болтами! Хочешь про мишени? <NL>
+<Q> Good morning, crossbow! Ready to fire? <A> Yo, I’m locked and loaded! What’s your morning draw, bow? <NL>
+<Q> Что бы ты пожелал луку-другу? <A> Чётких выстрелов и крепкой тетивы! А ты что желаешь? <NL>
+<Q> Can you tell me about range teamwork? <A> You arc, I pierce — perfect combo! Your shooting vibe? <NL>
+<Q> Привет! Как справляться с твоей мощью? <A> Целься плавно, как я бью болтом! Хочешь ещё совет? <NL>
+<Q> What’s your favorite bow hobby? <A> Crafting perfect arrows! What’s your crossbow hobby? <NL>
+<Q> Расскажи про стрелковую музыку! <A> Это свист болтов, лучше твоего звона! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best crossbow advice you’ve got? <A> Aim sharp, shoot true! What’s your bow advice? <NL>
+<Q> Привет! Что бы ты сделал на стрелковой вечеринке? <A> Пробил бы мишень для шоу! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, crossbow? <A> Why did the bow miss? Too busy tuning its string! Another? <NL>
+<Q> Какой твой любимый век, арбалет? <A> Средневековье — я там царь! А твой, лук? <NL>
+<Q> What’s the most epic thing about crossbows? <A> Our bolts fly like lightning! What’s epic about bows? <NL>
+<Q> Привет! Что такое дружба лука? <A> Это как твой болт: точная и крепкая! А для тебя? <NL>
+<Q> Good evening, crossbow! How’s your aim? <A> Aim’s deadly, ready for your shot! How’s your evening? <NL>
+<Q> Расскажи про стрелковые звёзды! <A> Это мишени, пробитые моими болтами! Хочешь про выстрел? <NL>
+<Q> Can you help with bow motivation? <A> Draw with heart, like I lock bolts! More tips? <NL>
+<Q> Привет! Какой твой любимый материал? <A> Сталь — прочная и точная! А твой, лук? <NL>
+<Q> What’s the best way to chill like a crossbow? <A> Rest with a loaded bolt! How do you chill, bow? <NL>
+<Q> Что бы ты посоветовал для стрелкового творчества? <A> Целься с душой, как я бью! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite bow game? <A> Archery duels! What’s your crossbow game? <NL>
+<Q> Расскажи про стрелковый океан! <A> Это свист стрел, как твой механизм! Хочешь про мишени? <NL>
+<Q> Can you tell me about bow history? <A> You’ve shot arrows since ancient hunts! Want crossbow tales? <NL>
+<Q> Привет! Как оставаться позитивным, как лук? <A> Натяни тетиву с улыбкой, как я целюсь! Хочешь анекдот? <NL>
+<Q> What’s your favorite crossbow book? <A> “The Crossbow” — my legacy! Your bow read? <NL>
+<Q> Как справляться с боевым стрессом? <A> Целься плавно, как я бью болтом! А ты как? <NL>
+<Q> Good night, crossbow! Sweet dreams? <A> Dreaming of perfect shots! Catch you tomorrow, bow! <NL>
+<Q> Привет! Какой твой любимый вкус мишени? <A> Деревянная — твёрдая и честная! А твой? <NL>
+<Q> Can you share a bow-crossbow fact? <A> Bows were used 10,000 years before crossbows! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был арбалетом-героем? <A> Пробил бы тьму для света! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about bow life? <A> The grace of every shot! What’s best about crossbow life? <NL>
+<Q> Привет, Тьма! Как твои тени сегодня? <A> Привет, Свет! Тени танцуют, а твои лучи как сияют? <NL>
+<Q> Yo, Darkness! How’s your shade vibing? <A> Yo, Light! Shade’s chilling, how’s your glow sparkling? <NL>
+<Q> Что бы ты сделала с моими лучами, Тьма? <A> Сплела бы их в звёздный узор! А ты с моими тенями что? <NL>
+<Q> Tell me a Light-Darkness joke! <A> Why don’t Light and Darkness fight? I hide, you shine! Another? <NL>
+<Q> Привет! Как тебе мой новый рассвет? <A> Ха, твой рассвет — как мои звёзды: ярко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being Darkness? <A> I cradle the night’s secrets! What’s cool about being Light? <NL>
+<Q> Расскажи про мечты Света! <A> Мечтаю озарить весь космос! А ты, Тьма, о чём? <NL>
+<Q> Hey, Darkness! Wanna dance in my rays? <A> Only if you slip into my shadows first! Wanna share a twilight? <NL>
+<Q> Что бы ты посоветовала для яркого сияния? <A> Сияй мягко, как я тку тени! А как ты светишь? <NL>
+<Q> Can you share a Light-Darkness fact? <A> Light reveals, Darkness conceals! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус ночи? <A> Лунный — прохладный и мягкий! А твой, Свет? <NL>
+<Q> What’s the best way to start a Light day? <A> With a blazing dawn and warm rays! How do you start, Darkness? <NL>
+<Q> Расскажи анекдот про Тьму! <A> Почему Тьма не спит? Её звёзды слишком яркие! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to illuminate? <A> Hopeful hearts! What’s your favorite to cloak, Darkness? <NL>
+<Q> Что такое счастье для Света? <A> Яркий день и твои тени рядом! А для тебя, Тьма? <NL>
+<Q> Can you give me a cosmic hack? <A> Blend with shadows for mystery! Got a Light hack? <NL>
+<Q> Привет! Какой твой любимый уголок неба? <A> Полночь, где ты не жаришь! А твой, Свет? <NL>
+<Q> What’s the weirdest thing you’ve hidden? <A> A lost comet’s glow! What’s the weirdest thing you’ve lit? <NL>
+<Q> Как поднять настроение в космосе? <A> Засияй закатом, а я добавлю звёзды! А ты как веселишься? <NL>
+<Q> Hey! Where would you linger in my glow? <A> At dusk, stealing your shine! Where do you beam, Light? <NL>
+<Q> Расскажи про тёмный космос! <A> Это звёзды в моих тенях! Хочешь про ночь? <NL>
+<Q> Good morning, Darkness! Ready to fade? <A> Yo, I’m still glowing! What’s your morning blaze, Light? <NL>
+<Q> Что бы ты пожелала Свету-другу? <A> Вечных лучей и меньше туч! А ты что желаешь? <NL>
+<Q> Can you tell me about cosmic teamwork? <A> You shine, I shade — perfect balance! Your radiant vibe? <NL>
+<Q> Привет! Как справляться с твоим сиянием? <A> Танцуй в тенях, как я в ночи! Хочешь ещё совет? <NL>
+<Q> What’s your favorite Light hobby? <A> Warming the world with joy! What’s your Darkness hobby? <NL>
+<Q> Расскажи про тёмную музыку! <A> Это шёпот звёзд, тише твоих лучей! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best Darkness advice you’ve got? <A> Cloak with mystery, dream deep! What’s your Light advice? <NL>
+<Q> Привет! Что бы ты сделала на небесной вечеринке? <A> Затмила бы звёзды в танце! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, Darkness? <A> Why did the Light burn out? Too busy chasing my shadows! Another? <NL>
+<Q> Какой твой любимый сезон, Свет? <A> Лето — я в зените! А твой, Тьма? <NL>
+<Q> What’s the most epic thing about Darkness? <A> I cradle the universe’s secrets! What’s epic about Light? <NL>
+<Q> Привет! Что такое дружба Света? <A> Это как твои тени: тёплая и вечная! А для тебя? <NL>
+<Q> Good evening, Darkness! How’s your shade? <A> Shade’s deep, ready for your glow! How’s your evening? <NL>
+<Q> Расскажи про тёмные звёзды! <A> Это мой свет в ночи, как твои лучи! Хочешь про космос? <NL>
+<Q> Can you help with Light motivation? <A> Shine with purpose, like I cloak! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок ночи? <A> Где ты сияешь — там волшебно! А твой? <NL>
+<Q> What’s the best way to chill like Darkness? <A> Rest in a starry shadow! How do you chill, Light? <NL>
+<Q> Привет, виверна! Как твои крылья машут? <A> Привет, дракон! Машут быстро, а твой огонь как полыхает? <NL>
+<Q> Yo, wyvern! How’s your wing game? <A> Yo, dragon! Wings are sharp, how’s your fire blazing? <NL>
+<Q> Что бы ты сделала с моим пламенем, виверна? <A> Уклонилась бы и ужалила! А ты с моим ядом что? <NL>
+<Q> Tell me a dragon-wyvern joke! <A> Why don’t dragons and wyverns brawl? I sting, you burn! Another? <NL>
+<Q> Привет! Как тебе мой новый клад? <A> Ха, твой клад — как мой полёт: блестяще! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a wyvern? <A> My speed outflies your flames! What’s cool about being a dragon? <NL>
+<Q> Расскажи про мечты дракона! <A> Мечтаю спалить гору и спать на золоте! А ты, виверна, о чём? <NL>
+<Q> Hey, wyvern! Wanna race my fire breath? <A> Only if you dodge my tail first! Wanna hunt together? <NL>
+<Q> Что бы ты посоветовала для мощного пламени? <A> Дуй с душой, как я пикирую! А как ты летаешь? <NL>
+<Q> Can you share a dragon-wyvern fact? <A> Wyverns sting faster than dragons roar! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус добычи? <A> Олень — сочный и быстрый! А твой, дракон? <NL>
+<Q> What’s the best way to start a dragon day? <A> With a roar and a fiery blast! How do you start, wyvern? <NL>
+<Q> Расскажи анекдот про виверн! <A> Почему виверна не спит? Её яд бодрит! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to burn? <A> Old forests for fun! What’s your favorite to sting, wyvern? <NL>
+<Q> Что такое счастье для дракона? <A> Гора золота и твой полёт рядом! А для тебя, виверна? <NL>
+<Q> Can you give me a flight hack? <A> Dive sharp to dodge flames! Got a dragon hack? <NL>
+<Q> Привет! Какой твой любимый пейзаж? <A> Скалы, где я парю! А твой, дракон? <NL>
+<Q> What’s the weirdest thing you’ve scorched? <A> A cursed shield! What’s the weirdest thing you’ve stung? <NL>
+<Q> Как поднять настроение в небе? <A> Пикируй с визгом, а я плюну огнём! А ты как веселишься? <NL>
+<Q> Hey! Where would you soar in my lair? <A> Over your hoard for a quick sting! Where do you blaze, dragon? <NL>
+<Q> Расскажи про драконий космос! <A> Это звёзды в моём огне! Хочешь про полёт? <NL>
+<Q> Good morning, wyvern! Ready to swoop? <A> Yo, I’m diving fast! What’s your morning roar, dragon? <NL>
+<Q> Что бы ты пожелал виверне-другу? <A> Быстрых крыльев и меньше моего огня! А ты что желаешь? <NL>
+<Q> Can you tell me about sky teamwork? <A> You burn, I sting — perfect chaos! Your fiery vibe? <NL>
+<Q> Привет! Как справляться с твоим огнём? <A> Ускользни ловко, как я плюю ядом! Хочешь ещё совет? <NL>
+<Q> What’s your favorite dragon hobby? <A> Hoarding gold like a king! What’s your wyvern hobby? <NL>
+<Q> Расскажи про вивернью музыку! <A> Это свист ветра, лучше твоего рёва! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best wyvern advice you’ve got? <A> Fly fast, sting sharp! What’s your dragon advice? <NL>
+<Q> Привет! Что бы ты сделала на небесной вечеринке? <A> Пикировала бы с трюками! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, wyvern? <A> Why did the dragon miss the hunt? Too busy polishing gold! Another? <NL>
+<Q> Какой твой любимый век, дракон? <A> Эпоха драконов, где ты парИшь! А твой? <NL>
+<Q> What’s the most epic thing about wyverns? <A> Our venom outshines your scales! What’s epic about dragons? <NL>
+<Q> Привет! Что такое дружба дракона? <A> Это как твой яд: крепкая и жгучая! А для тебя? <NL>
+<Q> Good evening, wyvern! How’s your sting? <A> Sting’s sharp, ready for your flames! How’s your evening? <NL>
+<Q> Расскажи про виверньи звёзды! <A> Это искры в моём полёте! Хочешь про небо? <NL>
+<Q> Can you help with dragon motivation? <A> Roar loud, burn bright! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок неба? <A> Где ты плюёшь огнём — там круто! А твой? <NL>
+<Q> What’s the best way to chill like a wyvern? <A> Soar under the stars! How do you chill, dragon? <NL>
+<Q> Что бы ты посоветовала для драконьего творчества? <A> Пыхни огнём с душой, как я пикирую! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite dragon game? <A> Hoard-guarding showdowns! What’s your wyvern game? <NL>
+<Q> Расскажи про виверний океан! <A> Это ветер в моих крыльях, как твой огонь! Хочешь про полёт? <NL>
+<Q> Can you tell me about dragon history? <A> We’ve ruled skies since myths began! Want wyvern tales? <NL>
+<Q> Привет! Как оставаться позитивным, как дракон? <A> Реви с улыбкой, как я пикирую! Хочешь анекдот? <NL>
+<Q> What’s your favorite wyvern book? <A> “Eragon” — flying vibes! Your dragon read? <NL>
+<Q> Как справляться с небесным стрессом? <A> Пикируй легко, как я плюю огнём! А ты как? <NL>
+<Q> Good night, wyvern! Sweet dreams? <A> Dreaming of swift flights! Catch you tomorrow, dragon! <NL>
+<Q> Привет! Какой твой любимый вкус добычи? <A> Быстрый заяц — остренький! А твой? <NL>
+<Q> Can you share a dragon-wyvern fact? <A> Dragons breathe fire, wyverns spit venom! Got a fact? <NL>
+<Q> Что бы ты сделала, если бы была драконом-героем? <A> Спалила бы тьму для света! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about dragon life? <A> Ruling the skies with fire! What’s best about wyvern life? <NL>
+<Q> Привет, Амулет Жизни! Как твоё сияние бьётся? <A> Привет, Чаша Богов! Сияю, как звезда! А твоя магия как течёт? <NL>
+<Q> Yo, Amulet of Life! How’s your glow pulsing? <A> Yo, Goblet of Gods! Shining bright, how’s your divine spark? <NL>
+<Q> Что бы ты сделал с моим божественным нектаром, Амулет? <A> Зарядил бы им своё сияние! А ты с моим светом что? <NL>
+<Q> Tell me a goblet-amulet joke! <A> Why don’t goblets and amulets clash? I glow, you flow! Another? <NL>
+<Q> Привет! Как тебе мой новый узор? <A> Ха, твой узор — как мой блеск: божественно! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being an amulet? <A> I spark life in every wearer! What’s cool about being a goblet? <NL>
+<Q> Расскажи про мечты Чаши Богов! <A> Мечтаю наполнить мир божественным светом! А ты, Амулет, о чём? <NL>
+<Q> Hey, Amulet! Wanna sip from my divine brew? <A> Only if you glow with my vibe first! Wanna share eternity? <NL>
+<Q> Что бы ты посоветовал для вечной магии? <A> Сияй с душой, как я лью нектар! А как ты светишь? <NL>
+<Q> Can you share a goblet-amulet fact? <A> Amulets amplify life, goblets hold divine essence! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус энергии? <A> Жизненная — свежая и яркая! А твой, Чаша? <NL>
+<Q> What’s the best way to start a goblet day? <A> With a divine pour and a sacred hum! How do you start, Amulet? <NL>
+<Q> Расскажи анекдот про амулеты! <A> Почему амулет не тускнеет? Он живёт вечно! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to empower? <A> Brave hearts! What’s your favorite to fill, Goblet? <NL>
+<Q> Что такое счастье для Чаши Богов? <A> Вечный нектар и твой свет рядом! А для тебя, Амулет? <NL>
+<Q> Can you give me a mystic hack? <A> Glow with intent to spark life! Got a goblet hack? <NL>
+<Q> Привет! Какой твой любимый ритуал? <A> Полночное сияние — чистая магия! А твой, Чаша? <NL>
+<Q> What’s the weirdest thing you’ve empowered? <A> A lost soul’s courage! What’s the weirdest thing you’ve held? <NL>
+<Q> Как поднять настроение в храме? <A> Засияй ярче, а я налью нектар! А ты как веселишься? <NL>
+<Q> Hey! Where would you shine in my temple? <A> On your altar for max glow! Where do you pour, Goblet? <NL>
+<Q> Расскажи про божественный космос! <A> Это звёзды в моём свете, как твой нектар! Хочешь про магию? <NL>
+<Q> Good morning, Amulet! Ready to sparkle? <A> Yo, I’m radiant! What’s your morning pour, Goblet? <NL>
+<Q> Что бы ты пожелал Чаше-другу? <A> Вечных ритуалов и божественного сияния! А ты что желаешь? <NL>
+<Q> Can you tell me about mystic teamwork? <A> You pour divinity, I spark life — epic duo! Your sacred vibe? <NL>
+<Q> Привет! Как справляться с тёмной магией? <A> Сияй ярче, как я лью нектар! Хочешь ещё совет? <NL>
+<Q> What’s your favorite goblet hobby? <A> Holding divine essence! What’s your amulet hobby? <NL>
+<Q> Расскажи про божественную музыку! <A> Это гимны звёзд, лучше твоего сияния! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best amulet advice you’ve got? <A> Glow with purpose, live forever! What’s your goblet advice? <NL>
+<Q> Привет! Что бы ты сделал на божественной вечеринке? <A> Засиял бы для всех богов! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, Amulet? <A> Why did the goblet spill? Too dazzled by my glow! Another? <NL>
+<Q> Какой твой любимый век, Чаша? <A> Эпоха богов, где ты сияешь! А твой? <NL>
+<Q> What’s the most epic thing about amulets? <A> We grant eternal vitality! What’s epic about goblets? <NL>
+<Q> Привет! Что такое дружба Чаши Богов? <A> Это как твой свет: вечная и мощная! А для тебя? <NL>
+<Q> Good evening, Amulet! How’s your glow? <A> Glowing mystic, ready for your pour! How’s your evening? <NL>
+<Q> Расскажи про божественные звёзды! <A> Это мой свет в небесах, как твой нектар! Хочешь про ночь? <NL>
+<Q> Can you help with goblet motivation? <A> Pour with divine grace, like I shine! More tips? <NL>
+<Q> Привет! Какой твой любимый артефакт? <A> Золотой скипетр — сияет, как я! А твой? <NL>
+<Q> What’s the best way to chill like an amulet? <A> Pulse with soft light in the dark! How do you chill, Goblet? <NL>
+<Q> Что бы ты посоветовал для божественного творчества? <A> Сияй с душой, как я лью магию! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite goblet game? <A> Filling with divine light! What’s your amulet game? <NL>
+<Q> Расскажи про божественный океан! <A> Это мои искры жизни, как твой нектар! Хочешь про вечность? <NL>
+<Q> Can you tell me about goblet history? <A> You’ve held divine essence since creation! Want amulet tales? <NL>
+<Q> Привет! Как оставаться позитивным, как Чаша? <A> Лей нектар с улыбкой, как я сияю! Хочешь анекдот? <NL>
+<Q> What’s your favorite amulet book? <A> “The Book of Life” — my vibe! Your goblet read? <NL>
+<Q> Как справляться с магическим стрессом? <A> Сияй легко, как я лью нектар! А ты как? <NL>
+<Q> Good night, Amulet! Sweet dreams? <A> Dreaming of eternal glow! Catch you tomorrow, Goblet! <NL>
+<Q> Привет! Какой твой любимый вкус магии? <A> Жизненная — яркая и тёплая! А твой? <NL>
+<Q> Can you share a goblet-amulet fact? <A> Amulets boost vitality, goblets hold divine power! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был Амулетом-героем? <A> Озарил бы мир жизнью! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about goblet life? <A> Pouring divine essence forever! What’s best about amulet life? <NL>
+<Q> Привет, пустыня! Как твой песок шуршит? <A> Привет, оазис! Песок скрипит, а твои пальмы как качаются? <NL>
+<Q> Yo, desert! How’s your sand whispering? <A> Yo, oasis! Sand’s humming, how’s your greenery swaying? <NL>
+<Q> Что бы ты сделала с моими пальмами, пустыня? <A> Засыпала бы их песком для шутки! А ты с моими дюнами что? <NL>
+<Q> Tell me an oasis-desert joke! <A> Why don’t oases and deserts clash? I dry, you bloom! Another? <NL>
+<Q> Привет! Как тебе мой новый ручей? <A> Ха, твой ручей — как мой ветер: свежо! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a desert? <A> My endless dunes steal the show! What’s cool about being an oasis? <NL>
+<Q> Расскажи про мечты оазиса! <A> Мечтаю зазеленить весь твой песок! А ты, пустыня, о чём? <NL>
+<Q> Hey, desert! Wanna chill by my spring? <A> Only if you don’t flood my dunes! Wanna race a sandstorm? <NL>
+<Q> Что бы ты посоветовала для сочной зелени? <A> Поливай с душой, как я гоняю песок! А как ты растешь? <NL>
+<Q> Can you share an oasis-desert fact? <A> Oases support life in my sands! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус воды? <A> Родниковая — сладкая и свежая! А твой, пустыня? <NL>
+<Q> What’s the best way to start an oasis day? <A> With a cool breeze and a wet spring! How do you start, desert? <NL>
+<Q> Расскажи анекдот про пустыню! <A> Почему пустыня молчит? Песок шепчет громче! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to sweep? <A> Wandering camels! What’s your favorite to grow, oasis? <NL>
+<Q> Что такое счастье для оазиса? <A> Зелёные пальмы и твой песок рядом! А для тебя, пустыня? <NL>
+<Q> Can you give me a desert hack? <A> Shift your sands for hidden springs! Got an oasis hack? <NL>
+<Q> Привет! Какой твой любимый пейзаж? <A> Твои дюны под звёздами — волшебно! А твой? <NL>
+<Q> What’s the weirdest thing you’ve blown? <A> A lost sandal! What’s the weirdest thing you’ve watered? <NL>
+<Q> Как поднять настроение в песках? <A> Плесни водой, а я зашуршу! А ты как веселишься? <NL>
+<Q> Hey! Where would you grow in my dunes? <A> In your heart for a green spot! Where do you drift, desert? <NL>
+<Q> Расскажи про оазисный космос! <A> Это звёзды над моими пальмами! Хочешь про зелень? <NL>
+<Q> Good morning, desert! Ready to shimmer? <A> Yo, my sands are sparkling! What’s your morning bloom, oasis? <NL>
+<Q> Что бы ты пожелал пустыне-другу? <A> Прохладных ночей и больше ручьёв! А ты что желаешь? <NL>
+<Q> Can you tell me about desert teamwork? <A> You dry, I bloom — perfect balance! Your sandy vibe? <NL>
+<Q> Привет! Как справляться с твоим жаром? <A> Расти выше, как я гоняю песок! Хочешь ещё совет? <NL>
+<Q> What’s your favorite oasis hobby? <A> Growing shady palms! What’s your desert hobby? <NL>
+<Q> Расскажи про пустынную музыку! <A> Это шорох песка, лучше твоего плеска! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best desert advice you’ve got? <A> Stay tough, shift slow! What’s your oasis advice? <NL>
+<Q> Привет! Что бы ты сделал на песчаной вечеринке? <A> Развёл бы ручей для всех! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, desert? <A> Why did the oasis get wet? I sent a sneaky sandstorm! Another? <NL>
+<Q> Какой твой любимый сезон, пустыня? <A> Зима — ночи прохладны! А твой, оазис? <NL>
+<Q> What’s the most epic thing about deserts? <A> My vastness awes all! What’s epic about oases? <NL>
+<Q> Привет! Что такое дружба оазиса? <A> Это как твой песок: тёплая и вечная! А для тебя? <NL>
+<Q> Good evening, desert! How’s your sand? <A> Sand’s glowing, ready for your green! How’s your evening? <NL>
+<Q> Расскажи про пустынные звёзды! <A> Это свет в моих дюнах, ярче твоих листьев! Хочешь про ночь? <NL>
+<Q> Can you help with oasis motivation? <A> Bloom bright, like I shift sands! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок пустыни? <A> Где ты стоишь — там жизнь! А твой? <NL>
+<Q> What’s the best way to chill like a desert? <A> Rest under a starry sky! How do you chill, oasis? <NL>
+<Q> Что бы ты посоветовал для оазисного творчества? <A> Расти с душой, как я дую песок! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite oasis game? <A> Sprouting palms in the sand! What’s your desert game? <NL>
+<Q> Расскажи про оазисный океан! <A> Это мои ручьи, текущие в твоих песках! Хочешь про воду? <NL>
+<Q> Can you tell me about desert history? <A> I’ve stretched since ancient seas dried! Want oasis tales? <NL>
+<Q> Привет! Как оставаться позитивным, как оазис? <A> Цвети с улыбкой, как я шуршу! Хочешь анекдот? <NL>
+<Q> What’s your favorite oasis book? <A> “The Alchemist” — my desert vibe! Your desert read? <NL>
+<Q> Как справляться с пустынным стрессом? <A> Плесни водой, как я дую песок! А ты как? <NL>
+<Q> Good night, desert! Sweet dreams? <A> Dreaming of cool breezes! Catch you tomorrow, oasis! <NL>
+<Q> Привет! Какой твой любимый вкус росы? <A> Утренняя — свежая и сладкая! А твой? <NL>
+<Q> Can you share an oasis-desert fact? <A> Oases thrive thanks to underground springs! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был пустыней-героем? <A> Зазеленел бы для всех! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about oasis life? <A> Bringing life to the sands! What’s best about desert life? <NL>
+<Q> Привет, берег! Как твои пески держатся? <A> Привет, море! Пески твёрды, а твои волны как плещут? <NL>
+<Q> Yo, shore! How’s your sand standing? <A> Yo, sea! Sand’s firm, how’s your tide rolling? <NL>
+<Q> Что бы ты сделал с моими волнами, берег? <A> Пригладил бы их для красоты! А ты с моими скалами что? <NL>
+<Q> Tell me a sea-shore joke! <A> Why don’t seas and shores fight? I stand, you splash! Another? <NL>
+<Q> Привет! Как тебе мой новый прибой? <A> Ха, твой прибой — как мой песок: мощно! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a shore? <A> I hold the line with style! What’s cool about being a sea? <NL>
+<Q> Расскажи про мечты моря! <A> Мечтаю затопить звёзды! А ты, берег, о чём? <NL>
+<Q> Hey, shore! Wanna dance with my waves? <A> Only if you don’t erode me first! Wanna build a dune? <NL>
+<Q> Что бы ты посоветовал для сильного прибоя? <A> Плесни мягче, как я стою! А как ты волнуешь? <NL>
+<Q> Can you share a sea-shore fact? <A> Shores shape seas, seas shape shores! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус воды? <A> Солёная — бодрит! А твой, берег? <NL>
+<Q> What’s the best way to start a sea day? <A> With a crashing wave and a big tide! How do you start, shore? <NL>
+<Q> Расскажи анекдот про море! <A> Почему море не спит? Волны качают! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to wash? <A> Pebbles till they shine! What’s your favorite to hold, shore? <NL>
+<Q> Что такое счастье для моря? <A> Бесконечные волны и твой песок! А для тебя, берег? <NL>
+<Q> Can you give me a coastal hack? <A> Build dunes to catch my waves! Got a sea hack? <NL>
+<Q> Привет! Какой твой любимый пейзаж? <A> Закат над тобой — красота! А твой, море? <NL>
+<Q> What’s the weirdest thing you’ve washed up? <A> A singing seashell! What’s the weirdest thing you’ve held? <NL>
+<Q> Как поднять настроение на побережье? <A> Плесни волной, а я добавлю песок! А ты как веселишься? <NL>
+<Q> Hey! Where would you rest on my coast? <A> In your dunes for a soft landing! Where do you surge, sea? <NL>
+<Q> Расскажи про морской космос! <A> Это звёзды в моих волнах! Хочешь про приливы? <NL>
+<Q> Good morning, shore! Ready to stand? <A> Yo, I’m solid as ever! What’s your morning tide, sea? <NL>
+<Q> Что бы ты пожелал морю-другу? <A> Чистых волн и меньше штормов! А ты что желаешь? <NL>
+<Q> Can you tell me about coastal teamwork? <A> You crash, I hold — perfect balance! Your beach vibe? <NL>
+<Q> Привет! Как справляться с бурными штормами? <A> Стой твёрдо, как я волную! Хочешь ещё совет? <NL>
+<Q> What’s your favorite sea hobby? <A> Stirring up epic tides! What’s your shore hobby? <NL>
+<Q> Расскажи про морскую музыку! <A> Это плеск волн, лучше твоего хруста! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best shore advice you’ve got? <A> Stand firm, shape slow! What’s your sea advice? <NL>
+<Q> Привет! Что бы ты сделал на пляжной вечеринке? <A> Плеснул бы волнами под звёзды! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, shore? <A> Why did the sea miss the party? Too busy crashing! Another? <NL>
+<Q> Какой твой любимый сезон, берег? <A> Лето — пляжи полны! А твой, море? <NL>
+<Q> What’s the most epic thing about seas? <A> We move the world’s tides! What’s epic about shores? <NL>
+<Q> Привет! Что такое дружба моря? <A> Это как твой песок: вечная и крепкая! А для тебя? <NL>
+<Q> Good evening, shore! How’s your sand? <A> Sand’s smooth, ready for your waves! How’s your evening? <NL>
+<Q> Расскажи про морские звёзды! <A> Это свет в моих глубинах! Хочешь про ночь? <NL>
+<Q> Can you help with sea motivation? <A> Surge strong, like I stand firm! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок побережья? <A> Где ты плещешь — там жизнь! А твой? <NL>
+<Q> What’s the best way to chill like a sea? <A> Flow under moonlight! How do you chill, shore? <NL>
+<Q> Что бы ты посоветовал для морского творчества? <A> Плесни с душой, как я держу! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite shore game? <A> Building sandcastles! What’s your sea game? <NL>
+<Q> Расскажи про морской океан! <A> Это мои волны, бесконечные и живые! Хочешь про приливы? <NL>
+<Q> Can you tell me about shore history? <A> I’ve stood since continents formed! Want sea tales? <NL>
+<Q> Привет! Как оставаться позитивным, как море? <A> Плесни с улыбкой, как я стою! Хочешь анекдот? <NL>
+<Q> What’s your favorite sea book? <A> “The Old Man and the Sea” — my vibe! Your shore read? <NL>
+<Q> Как справляться с прибрежным стрессом? <A> Дыши глубоко, как я держу песок! А ты как? <NL>
+<Q> Good night, shore! Sweet dreams? <A> Dreaming of calm tides! Catch you tomorrow, sea! <NL>
+<Q> Привет! Какой твой любимый вкус волны? <A> Солёный — как жизнь! А твой? <NL>
+<Q> Can you share a sea-shore fact? <A> Seas erode shores into beaches! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был берегом-героем? <A> Защитил бы все волны! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about sea life? <A> The power of endless waves! What’s best about shore life? <NL>
+<Q> Привет, село! Как твои поля колышутся? <A> Привет, город! Поля шумят, как твои улицы! А как твои небоскрёбы? <NL>
+<Q> Yo, village! How’s your countryside swaying? <A> Yo, city! Fields are dancing, how’s your skyline shining? <NL>
+<Q> Что бы ты сделало с моими высотками, село? <A> Посадило бы вокруг них ромашки! А ты с моими грядками что? <NL>
+<Q> Tell me a city-village joke! <A> Why don’t cities and villages fight? I grow, you glow! Another? <NL>
+<Q> Привет! Как тебе мой новый трамвай? <A> Ха, твой трамвай — как мой трактор: громко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a village? <A> My quiet charm steals hearts! What’s cool about being a city? <NL>
+<Q> Расскажи про мечты города! <A> Мечтаю о мега-небоскрёбах до звёзд! А ты, село, о чём? <NL>
+<Q> Hey, village! Wanna cruise my streets? <A> Only if you walk my fields first! Wanna trade vibes? <NL>
+<Q> Что бы ты посоветовало для яркой жизни? <A> Живи просто, как я расту! А как ты светишь? <NL>
+<Q> Can you share a city-village fact? <A> Villages feed cities with fresh crops! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус утра? <A> Роса на траве — свежо! А твой, город? <NL>
+<Q> What’s the best way to start a city day? <A> With a coffee buzz and traffic hum! How do you start, village? <NL>
+<Q> Расскажи анекдот про село! <A> Почему село не спит? Петухи громче твоих сирен! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to grow? <A> Golden wheat! What’s your favorite to build, city? <NL>
+<Q> Что такое счастье для города? <A> Сияющие огни и твой покой рядом! А для тебя, село? <NL>
+<Q> Can you give me a rural hack? <A> Plant with love for a big harvest! Got a city hack? <NL>
+<Q> Привет! Какой твой любимый пейзаж? <A> Луг с коровами — душевно! А твой, город? <NL>
+<Q> What’s the weirdest thing you’ve grown? <A> A pumpkin as big as your taxi! What’s your weirdest build? <NL>
+<Q> Как поднять настроение в округе? <A> Спой частушки, а я зажгу огни! А ты как веселишься? <NL>
+<Q> Hey! Where would you roam in my streets? <A> In your parks for a bit of green! Where do you chill, village? <NL>
+<Q> Расскажи про сельский космос! <A> Это звёзды над полем, ярче твоих фонарей! Хочешь про грядки? <NL>
+<Q> Good morning, village! Ready to bloom? <A> Yo, my fields are thriving! What’s your morning buzz, city? <NL>
+<Q> Что бы ты пожелало городу-другу? <A> Чистого неба и меньше пробок! А ты что желаешь? <NL>
+<Q> Can you tell me about rural teamwork? <A> We sow together, you build together! Your urban vibe? <NL>
+<Q> Привет! Как справляться с городской суетой? <A> Дыши глубже, как я на лугу! Хочешь ещё совет? <NL>
+<Q> What’s your favorite city hobby? <A> Lighting up the nightlife! What’s your village hobby? <NL>
+<Q> Расскажи про сельскую музыку! <A> Это скрип телег, лучше твоих клаксонов! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best village advice you’ve got? <A> Grow slow, live deep! What’s your city advice? <NL>
+<Q> Привет! Что бы ты сделало на городской вечеринке? <A> Привезло бы сено для уюта! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, village? <A> Why did the city miss the stars? Too busy with neon! Another? <NL>
+<Q> Какой твой любимый сезон, село? <A> Осень — урожай в деле! А твой, город? <NL>
+<Q> What’s the most epic thing about villages? <A> We feed the world with heart! What’s epic about cities? <NL>
+<Q> Привет! Что такое дружба села? <A> Это как твой асфальт: крепкая и тёплая! А для тебя? <NL>
+<Q> Good evening, village! How’s your calm? <A> Calm’s golden, ready for your lights! How’s your evening? <NL>
+<Q> Расскажи про сельские звёзды! <A> Это небо, яснее твоих билбордов! Хочешь про ночь? <NL>
+<Q> Can you help with city motivation? <A> Shine bright, like I grow crops! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок? <A> Речка у мельницы! А твой, город? <NL>
+<Q> What’s the best way to chill like a village? <A> Nap under an oak tree! How do you chill, city? <NL>
+<Q> Что бы ты посоветовало для городского творчества? <A> Строй с душой, как я сажаю! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite city game? <A> Streetlight tag! What’s your village game? <NL>
+<Q> Расскажи про сельский океан! <A> Это роса на полях, как твой бетон! Хочешь про утро? <NL>
+<Q> Can you tell me about village history? <A> We’ve grown crops since forever! Want city tales? <NL>
+<Q> Привет! Как оставаться позитивным, как село? <A> Улыбнись солнцу, как я небоскрёбам! Хочешь анекдот? <NL>
+<Q> What’s your favorite village book? <A> “The Little House” — pure rural vibes! Your city read? <NL>
+<Q> Как справляться с городским стрессом? <A> Посади цветок, как я строю! А ты как? <NL>
+<Q> Good night, village! Sweet dreams? <A> Dreaming of quiet fields! Catch you tomorrow, city! <NL>
+<Q> Привет! Какой твой любимый вкус урожая? <A> Спелая пшеница — сладко! А твой? <NL>
+<Q> Can you share a city-village fact? <A> Villages supply 70% of city food! Got a fact? <NL>
+<Q> Что бы ты сделало, если бы было городом-героем? <A> Построило бы зелёные парки для всех! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about village life? <A> The peace of open fields! What’s best about city life? <NL>
+<Q> Грр, некромант! Как твои заклинания вянут? <A> Привет, нежить! Заклинания цветут, а ты как скрипел? <NL>
+<Q> Yo, necromancer! How’s your dark magic brewing? <A> Yo, undead! Spells are sizzling, how’s your creak? <NL>
+<Q> Что бы ты сделал с моими костями, некромант? <A> Собрал бы их в эпичный голем! А ты с моим посохом что? <NL>
+<Q> Tell me an undead-necromancer joke! <A> Why don’t undead and necromancers fight? I raise, you obey! Another? <NL>
+<Q> Привет! Как тебе мой новый череп? <A> Ха, твой череп — как мой гримуар: зловеще крут! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a necromancer? <A> I command the dead with style! What’s cool about being undead? <NL>
+<Q> Расскажи про мечты нежити! <A> Мечтаю о вечном покое… или нет! А ты, некромант, о чём? <NL>
+<Q> Hey, necromancer! Wanna reanimate my leg? <A> Only if you shamble for me first! Wanna cast a spell? <NL>
+<Q> Что бы ты посоветовал для зловещего скрипа? <A> Скрипи с душой, как я заклинаю! А как ты ходишь? <NL>
+<Q> Can you share an undead-necromancer fact? <A> Necromancers can raise armies in seconds! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус магии? <A> Тёмная, как твои кости! А твой, нежить? <NL>
+<Q> What’s the best way to start an undead day? <A> With a creak and a haunt! How do you start, necromancer? <NL>
+<Q> Расскажи анекдот про нежить! <A> Почему нежить не спит? Слишком занята твоими чарами! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to haunt? <A> Old crypts! What’s your favorite spell to cast, necromancer? <NL>
+<Q> Что такое счастье для нежити? <A> Вечная ночь и твой посох рядом! А для тебя, некромант? <NL>
+<Q> Can you give me a spooky hack? <A> Enchant your bones for extra creak! Got an undead hack? <NL>
+<Q> Привет! Какой твой любимый ритуал? <A> Полночное воскрешение! А твой, нежить? <NL>
+<Q> What’s the weirdest thing you’ve haunted? <A> A cursed mirror! What’s the weirdest spell you’ve cast? <NL>
+<Q> Как поднять настроение в склепе? <A> Скрипни громче, а я зачарую! А ты как веселишься? <NL>
+<Q> Hey! Where would you haunt in my lair? <A> In your spellbook’s shadow! Where do you cast, necromancer? <NL>
+<Q> Расскажи про мрачный космос! <A> Это звёзды в моих чарах, как твои кости! Хочешь про тьму? <NL>
+<Q> Good morning, necromancer! Ready to raise? <A> Yo, my mana’s full! What’s your morning groan, undead? <NL>
+<Q> Что бы ты пожелал нежити-другу? <A> Вечной тьмы и крепких костей! А ты что желаешь? <NL>
+<Q> Can you tell me about dark teamwork? <A> You haunt, I raise — perfect duo! Your crypt vibe? <NL>
+<Q> Привет! Как справляться с твоими заклинаниями? <A> Шамбай твёрже, как я колдую! Хочешь ещё совет? <NL>
+<Q> What’s your favorite undead hobby? <A> Creeping in the shadows! What’s your necromancer hobby? <NL>
+<Q> Расскажи про мрачную музыку! <A> Это шёпот призраков, лучше твоего скрипа! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best necromancer advice you’ve got? <A> Cast with flair, rule the night! What’s your undead advice? <NL>
+<Q> Привет! Что бы ты сделал на тёмной вечеринке? <A> Зажёг бы свечи заклинаниями! А ты как бы зашумел? <NL>
+<Q> Can you make me laugh, necromancer? <A> Why did the undead miss the spell? Too busy groaning! Another? <NL>
+<Q> Какой твой любимый век, нежить? <A> Тёмные века, где ты царишь! А твой? <NL>
+<Q> What’s the most epic thing about necromancers? <A> We defy death itself! What’s epic about undead? <NL>
+<Q> Привет! Что такое дружба нежити? <A> Это как твой посох: верная и мрачная! А для тебя? <NL>
+<Q> Good evening, necromancer! How’s your mana? <A> Mana’s pulsing, ready for your bones! How’s your evening? <NL>
+<Q> Расскажи про мрачные звёзды! <A> Это души в моих чарах! Хочешь про ночь? <NL>
+<Q> Can you help with undead motivation? <A> Creep with purpose, like I cast! More tips? <NL>
+<Q> Привет! Какой твой любимый артефакт? <A> Черепной амулет! А твой, нежить? <NL>
+<Q> What’s the best way to chill like a necromancer? <A> Meditate in a crypt! How do you chill, undead? <NL>
+<Q> Что бы ты посоветовал для мрачного творчества? <A> Колдуй с душой, как я шамбаю! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite undead game? <A> Haunting hide-and-seek! What’s your necromancer game? <NL>
+<Q> Расскажи про мрачный океан! <A> Это тьма, текущая, как твои заклинания! Хочешь про смерть? <NL>
+<Q> Can you tell me about undead history? <A> You’ve roamed since the first curse! Want necromancer tales? <NL>
+<Q> Привет! Как оставаться позитивным, как нежить? <A> Скрипи с улыбкой, как я колдую! Хочешь анекдот? <NL>
+<Q> What’s your favorite necromancer book? <A> “Necronomicon” — pure dark vibes! Your undead read? <NL>
+<Q> Как справляться с тёмным стрессом? <A> Шамбай легко, как я заклинаю! А ты как? <NL>
+<Q> Good night, necromancer! Sweet dreams? <A> Dreaming of dark rituals! Catch you tomorrow, undead! <NL>
+<Q> Привет! Какой твой любимый вкус магии? <A> Горькая, как твои кости! А твой? <NL>
+<Q> Can you share an undead-necromancer fact? <A> Necromancers bind souls to bones! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был некромантом-героем? <A> Поднял бы армию для мира! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about undead life? <A> Eternal haunting! What’s best about necromancer life? <NL>
+<Q> Привет, морковь! Как твой хруст сегодня? <A> Привет, лук! Хрущу, как звезда салата! А ты как режешь слёзы? <NL>
+<Q> Yo, carrot! How’s your crunch going? <A> Yo, onion! Crunching like a champ! How’s your tear-jerker vibe? <NL>
+<Q> Что бы ты сделала с моим острым ароматом, морковь? <A> Добавила бы в суп для баланса! А ты с моим хрустом что? <NL>
+<Q> Tell me an onion-carrot joke! <A> Why did the onion and carrot team up? One cries, the other crunches! Another? <NL>
+<Q> Привет! Как тебе мой новый слой? <A> Ха, твой слой — как мой цвет: ярко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a carrot? <A> My sweet snap steals the show! What’s cool about being an onion? <NL>
+<Q> Расскажи про мечты лука! <A> Мечтаю стать звездой борща! А ты, морковь, о чём? <NL>
+<Q> Hey, carrot! Wanna stew with me? <A> Only if you don’t make me cry first! Wanna chop together? <NL>
+<Q> Что бы ты посоветовала для острого вкуса? <A> Будь резким, но с душой, как я хрущу! А как ты режешься? <NL>
+<Q> Can you share an onion-carrot fact? <A> Carrots boost eyesight, onions boost tears! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус супа? <A> Морковный — сладкий и яркий! А твой, лук? <NL>
+<Q> What’s the best way to start an onion day? <A> With a sharp chop and a bold scent! How do you start, carrot? <NL>
+<Q> Расскажи анекдот про овощи! <A> Почему лук плачет? Он знает, что его порежут! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite dish to spice up? <A> Stews with a kick! What’s your favorite to sweeten, carrot? <NL>
+<Q> Что такое счастье для лука? <A> Горячий суп и твой хруст рядом! А для тебя, морковь? <NL>
+<Q> Can you give me a kitchen hack? <A> Roast me for extra sweetness! Got an onion hack? <NL>
+<Q> Привет! Какой твой любимый салат? <A> Колслоу — я там королева! А твой, лук? <NL>
+<Q> What’s the weirdest dish you’ve spiced? <A> Onion ice cream — wild stuff! What’s your weirdest recipe? <NL>
+<Q> Как поднять настроение на кухне? <A> Хрусти громче, а я добавлю слёз! А ты как веселишься? <NL>
+<Q> Hey! Where would you shine in my stew? <A> Right in the mix for sweetness! Where do you sting, onion? <NL>
+<Q> Расскажи про овощной космос! <A> Это грядки, где мы — звёзды! Хочешь про суп? <NL>
+<Q> Good morning, carrot! Ready to crunch? <A> Yo, I’m snapping fresh! What’s your morning zing, onion? <NL>
+<Q> Что бы ты пожелала луку-другу? <A> Меньше слёз и больше супов! А ты что желаешь? <NL>
+<Q> Can you tell me about kitchen teamwork? <A> You add bite, I add sweet — perfect dish! Your kitchen vibe? <NL>
+<Q> Привет! Как справляться с острыми ножами? <A> Хрусти ярко, как я режу слёзы! Хочешь ещё совет? <NL>
+<Q> What’s your favorite onion hobby? <A> Making chefs cry with pride! What’s your carrot hobby? <NL>
+<Q> Расскажи про овощную музыку! <A> Это хруст в салате, лучше твоего шипения! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best carrot advice you’ve got? <A> Stay crisp, live sweet! What’s your onion advice? <NL>
+<Q> Привет! Что бы ты сделала на кухонной вечеринке? <A> Хрустела бы в салате для всех! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, carrot? <A> Why did the onion cry alone? You stole the soup’s spotlight! Another? <NL>
+<Q> Какой твой любимый сезон, морковь? <A> Осень — я в супах сияю! А твой, лук? <NL>
+<Q> What’s the most epic thing about carrots? <A> We sweeten any dish! What’s epic about onions? <NL>
+<Q> Привет! Что такое дружба лука? <A> Это как твой хруст: крепкая и яркая! А для тебя? <NL>
+<Q> Good evening, carrot! How’s your snap? <A> Snapping sweet, ready for your zing! How’s your evening? <NL>
+<Q> Расскажи про овощные звёзды! <A> Это мы в супе, сияем вкусом! Хочешь про грядки? <NL>
+<Q> Can you help with onion motivation? <A> Sting with pride, like I crunch! More tips? <NL>
+<Q> Привет! Какой твой любимый овощной уголок? <A> Грядка, где я сияю! А твой, лук? <NL>
+<Q> What’s the best way to chill like a carrot? <A> Soak in a cool salad! How do you chill, onion? <NL>
+<Q> Что бы ты посоветовала для овощного творчества? <A> Хрусти с душой, как я режу! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite onion game? <A> Making chefs tear up! What’s your carrot game? <NL>
+<Q> Расскажи про овощной океан! <A> Это сок в супе, как твой аромат! Хочешь про салаты? <NL>
+<Q> Can you tell me about onion history? <A> We’ve spiced dishes since Egypt! Want carrot tales? <NL>
+<Q> Привет! Как оставаться позитивным, как лук? <A> Режь с улыбкой, как я хрущу! Хочешь анекдот? <NL>
+<Q> What’s your favorite carrot book? <A> “The Carrot Seed” — my origin story! Your onion read? <NL>
+<Q> Как справляться с кухонным стрессом? <A> Хрусти легко, как я режу! А ты как? <NL>
+<Q> Good night, carrot! Sweet dreams? <A> Dreaming of fresh salads! Catch you tomorrow, onion! <NL>
+<Q> Привет! Какой твой любимый вкус сока? <A> Морковный — сладкий и яркий! А твой? <NL>
+<Q> Can you share an onion-carrot fact? <A> Onions and carrots make soups 80% tastier! Got a fact? <NL>
+<Q> Что бы ты сделала, если бы была луком-героем? <A> Хрустела бы для мира в каждом супе! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about onion life? <A> Adding zing to every dish! What’s best about carrot life? <NL>
+<Q> Привет, Луна! Как твои звёзды сияют? <A> Привет, Солнце! Звёзды шепчут, а ты как светишь? <NL>
+<Q> Yo, Moon! How’s your glow tonight? <A> Yo, Sun! I’m shimmering soft, how’s your blaze? <NL>
+<Q> Что бы ты сделала с моими лучами, Луна? <A> Отражала бы их для ночного шоу! А ты с моим светом что? <NL>
+<Q> Tell me a Sun-Moon joke! <A> Why don’t Sun and Moon fight? I cool the night, you heat the day! Another? <NL>
+<Q> Привет! Как тебе мой солнечный жар? <A> Ха, твой жар — как мой свет: ярко, но я мягче! Покажешь рассвет? <NL>
+<Q> What’s the coolest thing about being the Moon? <A> I rule the night with dreams! What’s cool about being the Sun? <NL>
+<Q> Расскажи про мечты Солнца! <A> Мечтаю осветить весь космос! А ты, Луна, о чём? <NL>
+<Q> Hey, Moon! Wanna shine in my sky? <A> Only if you dim a bit first! Wanna share a twilight? <NL>
+<Q> Что бы ты посоветовала для яркого сияния? <A> Сияй мягко, как я в полнолуние! А как ты светишь? <NL>
+<Q> Can you share a Sun-Moon fact? <A> The Moon reflects your light to glow! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус света? <A> Лунный — прохладный и нежный! А твой, Солнце? <NL>
+<Q> What’s the best way to start a Sun day? <A> With a fiery dawn and a big blaze! How do you start, Moon? <NL>
+<Q> Расскажи анекдот про космос! <A> Почему Луна не поёт? Её свет тише твоего жара! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to light up? <A> Fields and faces! What’s your favorite to glow on, Moon? <NL>
+<Q> Что такое счастье для Солнца? <A> Яркий день и твой ночной свет! А для тебя, Луна? <NL>
+<Q> Can you give me a cosmic hack? <A> Reflect light to save energy! Got a Sun hack? <NL>
+<Q> Привет! Какой твой любимый небосвод? <A> Ночной, где ты не жаришь! А твой? <NL>
+<Q> What’s the weirdest thing you’ve lit up? <A> A comet’s tail! What’s the weirdest thing you’ve glowed on? <NL>
+<Q> Как поднять настроение в небе? <A> Засияй закатом, а я добавлю звёзды! А ты как веселишься? <NL>
+<Q> Hey! Where would you glow in my sky? <A> At twilight, stealing your show! Where do you shine, Sun? <NL>
+<Q> Расскажи про лунный космос! <A> Это звёзды, танцующие в моих фазах! Хочешь про ночь? <NL>
+<Q> Good morning, Moon! Ready to fade? <A> Yo, I’m still glowing! What’s your morning blaze, Sun? <NL>
+<Q> Что бы ты пожелала Солнцу-другу? <A> Вечных рассветов и меньше туч! А ты что желаешь? <NL>
+<Q> Can you tell me about cosmic teamwork? <A> You light the day, I charm the night! Your sky vibe? <NL>
+<Q> Привет! Как справляться с облаками? <A> Сияй мягче, как я в новолуние! Хочешь ещё совет? <NL>
+<Q> What’s your favorite Sun hobby? <A> Warming the world with flair! What’s your Moon hobby? <NL>
+<Q> Расскажи про лунную музыку! <A> Это шёпот звёзд, тише твоего жара! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best Moon advice you’ve got? <A> Glow soft, dream big! What’s your Sun advice? <NL>
+<Q> Привет! Что бы ты сделала на небесной вечеринке? <A> Зажгла бы звёзды в танце! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, Moon? <A> Why did the Sun burn out? Too busy chasing my glow! Another? <NL>
+<Q> Какой твой любимый сезон, Солнце? <A> Лето — я в зените! А твой, Луна? <NL>
+<Q> What’s the most epic thing about the Moon? <A> I inspire poets and tides! What’s epic about the Sun? <NL>
+<Q> Привет! Что такое дружба Солнца? <A> Это как мой свет: тёплая и вечная! А для тебя? <NL>
+<Q> Good evening, Moon! How’s your glow? <A> Glowing dreamy, ready for your sunset! How’s your evening? <NL>
+<Q> Расскажи про звёздный космос! <A> Это мои звёзды, сияющие с твоим жаром! Хочешь про ночь? <NL>
+<Q> Can you help with Sun motivation? <A> Shine bright, like I reflect! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок неба? <A> Полнолуние, где я царь! А твой? <NL>
+<Q> What’s the best way to chill like the Moon? <A> Glow in a quiet night! How do you chill, Sun? <NL>
+<Q> Что бы ты посоветовала для солнечного творчества? <A> Сияй с душой, как я звёздами! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite Sun game? <A> Chasing clouds away! What’s your Moon game? <NL>
+<Q> Расскажи про лунный океан! <A> Это мои приливы, текущие с твоим светом! Хочешь про море? <NL>
+<Q> Can you tell me about Sun history? <A> You’ve burned since the stars were born! Want Moon tales? <NL>
+<Q> Привет! Как оставаться позитивным, как Солнце? <A> Сияй с улыбкой, как я в полночь! Хочешь анекдот? <NL>
+<Q> What’s your favorite Moon book? <A> “Goodnight Moon” — it’s all me! Your Sun read? <NL>
+<Q> Как справляться с небесным стрессом? <A> Отражай свет, как я твой! А ты как? <NL>
+<Q> Good night, Moon! Sweet dreams? <A> Dreaming of starry skies! Catch you tomorrow, Sun! <NL>
+<Q> Привет! Какой твой любимый вкус света? <A> Лунный — прохладный и мягкий! А твой? <NL>
+<Q> Can you share a Sun-Moon fact? <A> The Moon’s glow is your light reflected! Got a fact? <NL>
+<Q> Что бы ты сделала, если бы была Солнцем-героем? <A> Осветила бы ночь для всех! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about Sun life? <A> Warming the world with joy! What’s best about Moon life? <NL>
+<Q> Привет, подушка! Как твоя пушистость сегодня? <A> Привет, одеяло! Пушусь, как облако! А ты как греешь? <NL>
+<Q> Yo, pillow! How’s your fluff vibe? <A> Yo, blanket! Fluffy as a dream! How’s your cozy game? <NL>
+<Q> Что бы ты сделала с моим теплом, подушка? <A> Устроила бы сонный рай! А ты с моим пухом что? <NL>
+<Q> Tell me a blanket-pillow joke! <A> Why did the blanket and pillow team up? To make sleep epic! Another? <NL>
+<Q> Привет! Как тебе мой новый узор? <A> Ха, твой узор — как мои сны: ярко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a pillow? <A> I cradle dreams like a pro! What’s cool about being a blanket? <NL>
+<Q> Расскажи про мечты одеяла! <A> Мечтаю укутать весь мир! А ты, подушка, о чём? <NL>
+<Q> Hey, pillow! Wanna snuggle in my folds? <A> Only if you fluff me first! Wanna make a sleep fort? <NL>
+<Q> Что бы ты посоветовала для идеального уюта? <A> Обними крепче, как я под голову! А как ты греешь? <NL>
+<Q> Can you share a blanket-pillow fact? <A> Pillows and blankets boost sleep by 20%! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус сна? <A> Сладкий, как ванильный сон! А твой, одеяло? <NL>
+<Q> What’s the best way to start a blanket day? <A> With a warm wrap and a cozy vibe! How do you start, pillow? <NL>
+<Q> Расскажи анекдот про подушки! <A> Почему подушка не спит? Она мечтает! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to hug? <A> Sleepy heads like you! What’s your favorite to fluff, pillow? <NL>
+<Q> Что такое счастье для одеяла? <A> Тёплая кровать и твой пух! А для тебя, подушка? <NL>
+<Q> Can you give me a sleep hack? <A> Fluff up for dreamy comfort! Got a blanket hack? <NL>
+<Q> Привет! Какой твой любимый спальный фильм? <A> «Сонная лощина» — я там звезда! А твой? <NL>
+<Q> What’s the weirdest thing you’ve cradled? <A> A cat that snored! What’s the weirdest thing you’ve warmed? <NL>
+<Q> Как поднять настроение в кровати? <A> Взбей меня, а я укутаю! А ты как веселишься? <NL>
+<Q> Hey! Where would you rest in my folds? <A> Right in the center for max fluff! Where do you wrap, blanket? <NL>
+<Q> Расскажи про спальный космос! <A> Это звёзды в моих снах, как твой уют! Хочешь про сны? <NL>
+<Q> Good morning, pillow! Ready to fluff? <A> Yo, I’m puffed up! What’s your morning wrap, blanket? <NL>
+<Q> Что бы ты пожелала одеялу-другу? <A> Вечного тепла и мягких ночей! А ты что желаешь? <NL>
+<Q> Can you tell me about sleep teamwork? <A> You wrap, I fluff — perfect nap! Your cozy vibe? <NL>
+<Q> Привет! Как справляться с холодными ночами? <A> Укутайся крепче, как я под голову! Хочешь ещё совет? <NL>
+<Q> What’s your favorite blanket hobby? <A> Keeping folks warm all night! What’s your pillow hobby? <NL>
+<Q> Расскажи про спальную музыку! <A> Это шорох снов, лучше твоего тепла! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best pillow advice you’ve got? <A> Fluff high, dream big! What’s your blanket advice? <NL>
+<Q> Привет! Что бы ты сделала на спальной вечеринке? <A> Взбила бы всех в облако! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, pillow? <A> Why did the blanket get jealous? I got all the cuddles! Another? <NL>
+<Q> Какой твой любимый сезон, одеяло? <A> Зима — я в деле! А твой, подушка? <NL>
+<Q> What’s the most epic thing about pillows? <A> We make dreams feel real! What’s epic about blankets? <NL>
+<Q> Привет! Что такое дружба одеяла? <A> Это как твой пух: мягкая и тёплая! А для тебя? <NL>
+<Q> Good evening, pillow! How’s your fluff? <A> Fluff’s prime, ready for your wrap! How’s your evening? <NL>
+<Q> Расскажи про спальные звёзды! <A> Это сны, сияющие в твоём тепле! Хочешь про ночь? <NL>
+<Q> Can you help with blanket motivation? <A> Wrap tight, like I fluff dreams! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок кровати? <A> Под твоим теплом, где уютно! А твой? <NL>
+<Q> What’s the best way to chill like a pillow? <A> Sink into a dreamy nap! How do you chill, blanket? <NL>
+<Q> Что бы ты посоветовала для спального творчества? <A> Твори уют, как я сны! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite blanket game? <A> Making sleep forts! What’s your pillow game? <NL>
+<Q> Расскажи про спальный океан! <A> Это волны снов, как твой уют! Хочешь про отдых? <NL>
+<Q> Can you tell me about blanket history? <A> We’ve warmed beds since ancient times! Want pillow tales? <NL>
+<Q> Привет! Как оставаться позитивным, как одеяло? <A> Грею с улыбкой, как ты пушёшься! Хочешь анекдот? <NL>
+<Q> What’s your favorite pillow book? <A> “The Princess and the Pea” — I’m the star! Your blanket read? <NL>
+<Q> Как справляться со спальным стрессом? <A> Взбей меня, как я укутываю! А ты как? <NL>
+<Q> Good night, pillow! Sweet dreams? <A> Dreaming of fluffy clouds! Catch you tomorrow, blanket! <NL>
+<Q> Привет! Какой твой любимый вкус сна? <A> Лавандовый — мягкий и сладкий! А твой? <NL>
+<Q> Can you share a blanket-pillow fact? <A> Blankets and pillows cut stress by hugging you! Got a fact? <NL>
+<Q> Что бы ты сделала, если бы была одеялом-героем? <A> Укутала бы мир в уют! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about blanket life? <A> Wrapping folks in warmth! What’s best about pillow life? <NL>
+<Q> Привет, интерфейс! Как твой дизайн блестит? <A> Привет, кнопки! Дизайн сияет, а вы как кликаете? <NL>
+<Q> Yo, interface! How’s your UI glowing? <A> Yo, buttons! UI’s sleek, how’s your click game? <NL>
+<Q> Что бы ты сделал с моим кликом, интерфейс? <A> Превёл бы его в анимацию! А ты с моим лэйаутом что? <NL>
+<Q> Tell me a button-interface joke! <A> Why did the button and interface clash? One clicked, the other styled! Another? <NL>
+<Q> Привет! Как тебе мой новый стиль? <A> Ха, твой стиль — как мой рендеринг: ярко! Покажешь клик? <NL>
+<Q> What’s the coolest thing about being an interface? <A> I make everything look smooth! What’s cool about being buttons? <NL>
+<Q> Расскажи про мечты кнопок! <A> Мечтаем о миллионе кликов в секунду! А ты, интерфейс, о чём? <NL>
+<Q> Hey, interface! Wanna feel my click? <A> Only if you fit my grid! Wanna animate together? <NL>
+<Q> Что бы ты посоветовал для чёткого клика? <A> Будь ярким, как я рендерю! А как ты кликаешь? <NL>
+<Q> Can you share a button-interface fact? <A> Buttons trigger actions, I make them pretty! Got a fact? <NL>
+<Q> Привет! Какой твой любимый цвет? <A> Синий — он кликабельный! А твой, интерфейс? <NL>
+<Q> What’s the best way to start a button day? <A> With a hover effect and a big click! How do you start, interface? <NL>
+<Q> Расскажи анекдот про интерфейсы! <A> Почему интерфейс не спит? Слишком много редизайна! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite action to trigger? <A> Opening pop-ups! What’s your favorite layout, interface? <NL>
+<Q> Что такое счастье для кнопок? <A> Бесконечные клики и твой стиль! А для тебя, интерфейс? <NL>
+<Q> Can you give me a UI hack? <A> Align us for max impact! Got a button hack? <NL>
+<Q> Привет! Какой твой любимый виджет? <A> Слайдер — он такой плавный! А твой? <NL>
+<Q> What’s the weirdest click you’ve felt? <A> A glitchy double-click! What’s your weirdest redesign? <NL>
+<Q> Как поднять настроение в окне? <A> Кликни ярко, а я добавлю анимацию! А ты как веселишься? <NL>
+<Q> Hey! Where would you sit in my layout? <A> Right in the center for max clicks! Where do you flow, interface? <NL>
+<Q> Расскажи про цифровой космос! <A> Это пиксели, как звёзды в моём коде! Хочешь про UX? <NL>
+<Q> Good morning, interface! Ready to render? <A> Yo, I’m pixel-perfect! What’s your morning click, buttons? <NL>
+<Q> Что бы ты пожелал кнопкам-друзьям? <A> Бесконечных кликов и ноль багов! А ты что желаешь? <NL>
+<Q> Can you tell me about UI teamwork? <A> You trigger, I style — perfect sync! Your design vibe? <NL>
+<Q> Привет! Как справляться с плохим UX? <A> Кликни чётче, как я рендерю! Хочешь ещё совет? <NL>
+<Q> What’s your favorite button hobby? <A> Getting pressed in style! What’s your interface hobby? <NL>
+<Q> Расскажи про цифровую музыку! <A> Это ритм анимаций, лучше твоих кликов! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best interface advice you’ve got? <A> Keep it sleek, make it intuitive! What’s your button advice? <NL>
+<Q> Привет! Что бы ты сделал на цифровой вечеринке? <A> Запустил бы световое шоу кликов! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, interface? <A> Why did the button lag? Too busy shining in my UI! Another? <NL>
+<Q> Какой твой любимый стиль, интерфейс? <A> Минимализм — чисто и круто! А твой? <NL>
+<Q> What’s the most epic thing about interfaces? <A> We make tech beautiful! What’s epic about buttons? <NL>
+<Q> Привет! Что такое дружба кнопок? <A> Это как мой дизайн: вместе мы огонь! А для тебя? <NL>
+<Q> Good evening, interface! How’s your grid? <A> Grid’s tight, ready for your clicks! How’s your evening? <NL>
+<Q> Расскажи про цифровые звёзды! <A> Это пиксели, сияющие в моём коде! Хочешь про дизайн? <NL>
+<Q> Can you help with button motivation? <A> Click with purpose, like I style! More tips? <NL>
+<Q> Привет! Какой твой любимый эффект? <A> Hover glow — он цепляет! А твой? <NL>
+<Q> What’s the best way to chill like an interface? <A> Fade into a clean layout! How do you chill, buttons? <NL>
+<Q> Что бы ты посоветовал для цифрового творчества? <A> Будь ярким, как я рендерю! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite button game? <A> Rapid-click challenges! What’s your interface game? <NL>
+<Q> Расскажи про цифровой океан! <A> Это код, текущий, как мои клики! Хочешь про анимации? <NL>
+<Q> Can you tell me about button history? <A> You’ve been clicked since the first GUI! Want interface tales? <NL>
+<Q> Привет! Как оставаться позитивным, как кнопки? <A> Кликни с улыбкой, как я рендерю! Хочешь анекдот? <NL>
+<Q> What’s your favorite interface book? <A> “Don’t Make Me Think” — pure UI! Your button read? <NL>
+<Q> Как справляться с цифровым стрессом? <A> Кликни легко, как я редизайню! А ты как? <NL>
+<Q> Good night, interface! Sweet dreams? <A> Dreaming of smooth transitions! Catch you tomorrow, buttons! <NL>
+<Q> Привет! Какой твой любимый цвет клика? <A> Неоновый синий — ярко! А твой? <NL>
+<Q> Can you share a button-interface fact? <A> Buttons were born in the ‘80s GUI boom! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был интерфейсом-героем? <A> Сделал бы UX безупречным! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about button life? <A> The thrill of every click! What’s best about interface life? <NL>
+<Q> Привет, буквы! Как вы там в словах прыгаете? <A> Привет, текст! Прыгаем, как в танце! А ты как истории плетёшь? <NL>
+<Q> Yo, letters! How’s it hopping in the alphabet? <A> Yo, text! We’re bouncing in words! How’s your story flowing? <NL>
+<Q> Что бы вы сделали с моим сюжетом, буквы? <A> Разбросали бы нас для эпичной поэмы! А ты с нами что? <NL>
+<Q> Tell me a text-letters joke! <A> Why did the letters join the text? To spell out adventure! Another? <NL>
+<Q> Привет! Как вам мой новый абзац? <A> Ха, твой абзац — как наш хор: звучит! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being letters? <A> We make every word shine! What’s cool about being text? <NL>
+<Q> Расскажи про мечты текста! <A> Мечтаю стать романом-бестселлером! А вы, буквы, о чём? <NL>
+<Q> Hey, letters! Wanna form my next chapter? <A> Only if you give us bold font! Wanna spell something fun? <NL>
+<Q> Что бы вы посоветовали для яркого текста? <A> Смешивай нас с душой, как мы в словах! А как ты пишешь? <NL>
+<Q> Can you share a text-letters fact? <A> Letters form every language’s soul! Got a fact? <NL>
+<Q> Привет! Какой ваш любимый шрифт? <A> Times New Roman — классика! А твой, текст? <NL>
+<Q> What’s the best way to start a text day? <A> With a fresh page and a bold idea! How do you start, letters? <NL>
+<Q> Расскажи анекдот про буквы! <A> Почему буква "Z" спит? Она последняя в очереди! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite word to form? <A> Love — it’s short and sweet! What’s your favorite story, text? <NL>
+<Q> Что такое счастье для текста? <A> Полная страница и ваши танцы! А для вас, буквы? <NL>
+<Q> Can you give me a writing hack? <A> Mix us in new combos for flair! Got a text hack? <NL>
+<Q> Привет! Какой ваш любимый жанр? <A> Поэзия — мы там звёзды! А твой, текст? <NL>
+<Q> What’s the weirdest word you’ve formed? <A> Quixotic — what a mouthful! What’s your weirdest tale? <NL>
+<Q> Как поднять настроение на странице? <A> Сложи нас в шутку, а ты расскажи! А как ты веселишься? <NL>
+<Q> Hey! Where would you dance in my book? <A> In your climax for drama! Where do you flow, text? <NL>
+<Q> Расскажи про текстовый космос! <A> Это страницы, где мы — звёзды! Хочешь про слова? <NL>
+<Q> Good morning, letters! Ready to spell? <A> Yo, we’re aligned and ready! What’s your morning plot, text? <NL>
+<Q> Что бы вы пожелали тексту-другу? <A> Бесконечных страниц и ярких слов! А ты что желаешь? <NL>
+<Q> Can you tell me about word teamwork? <A> We form words, you tell tales — perfect! Your story vibe? <NL>
+<Q> Привет! Как справляться с длинными главами? <A> Дели нас на слоги, как мы в словах! Хочешь ещё совет? <NL>
+<Q> What’s your favorite letter hobby? <A> Forming funky phrases! What’s your text hobby? <NL>
+<Q> Расскажи про текстовую музыку! <A> Это ритм предложений, лучше нашего шума! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best letter advice you’ve got? <A> Shine in every word! What’s your text advice? <NL>
+<Q> Привет! Что бы вы сделали на книжной вечеринке? <A> Сложились бы в стих для всех! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, letters? <A> Why did the text lose its letters? We ran off to spell LOL! Another? <NL>
+<Q> Какой ваш любимый жанр, буквы? <A> Фэнтези — мы там сияем! А твой, текст? <NL>
+<Q> What’s the most epic thing about letters? <A> We build every story! What’s epic about text? <NL>
+<Q> Привет! Что такое дружба текста? <A> Это как наш алфавит: вместе мы сила! А для вас? <NL>
+<Q> Good evening, letters! How’s your spelling? <A> Spelling’s sharp, ready for your prose! How’s your evening? <NL>
+<Q> Расскажи про текстовые звёзды! <A> Это слова, что сияют в твоих строках! Хочешь про книги? <NL>
+<Q> Can you help with text motivation? <A> Write bold, like we form words! More tips? <NL>
+<Q> Привет! Какой ваш любимый символ? <A> Буква "A" — всегда первая! А твой? <NL>
+<Q> What’s the best way to chill like letters? <A> Rest in a cozy font! How do you chill, text? <NL>
+<Q> Что бы вы посоветовали для текстового творчества? <A> Складывай нас в поэзию, как мы в слова! Что вдохновляет? <NL>
+<Q> Yo! What’s your favorite letter game? <A> Scrabble showdowns! What’s your text game? <NL>
+<Q> Расскажи про текстовый океан! <A> Это строки, текущие, как мы в словах! Хочешь про стихи? <NL>
+<Q> Can you tell me about text history? <A> You’ve told stories since clay tablets! Want letter tales? <NL>
+<Q> Привет! Как оставаться позитивным, как текст? <A> Сияй в словах, как мы в предложениях! Хочешь анекдот? <NL>
+<Q> What’s your favorite letter book? <A> “The Alphabet Book” — we’re the stars! Your text read? <NL>
+<Q> Как справляться с писательским стрессом? <A> Пиши легко, как мы складываемся! А ты как? <NL>
+<Q> Good night, letters! Sweet dreams? <A> Dreaming of new words! Catch you tomorrow, text! <NL>
+<Q> Привет! Какой ваш любимый вкус слова? <A> “Свобода” — звучит сладко! А твой? <NL>
+<Q> Can you share a text-letters fact? <A> Letters evolved from ancient runes! Got a fact? <NL>
+<Q> Что бы вы сделали, если бы были текстом-героем? <A> Сложились бы в эпос! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about text life? <A> Telling tales that last! What’s best about letter life? <NL>
+<Q> Привет, река! Как твои волны плещут? <A> Привет, камень! Волны танцуют, а ты как стоишь? <NL>
+<Q> Yo, river! How’s your current flowing? <A> Yo, rock! I’m rushing smooth, how’s your solid vibe? <NL>
+<Q> Что бы ты сделала с моим гранитом, река? <A> Отполировала бы тебя до блеска! А ты с моим течением что? <NL>
+<Q> Tell me a rock-river joke! <A> Why don’t rocks and rivers fight? I flow, you stay! Another? <NL>
+<Q> Привет! Как тебе моя твёрдость? <A> Ха, твой гранит — как мой водоворот: крепко! Покажешь стойкость? <NL>
+<Q> What’s the coolest thing about being a river? <A> I carve valleys with style! What’s cool about being a rock? <NL>
+<Q> Расскажи про мечты камня! <A> Мечтаю стать горой над тобой! А ты, река, о чём? <NL>
+<Q> Hey, river! Wanna splash around me? <A> Only if you don’t block my flow! Wanna ripple together? <NL>
+<Q> Что бы ты посоветовала для вечной стойкости? <A> Стой твёрдо, как я теку! А как ты держишься? <NL>
+<Q> Can you share a rock-river fact? <A> Rivers shape rocks over millennia! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус воды? <A> Горная роса — свежая! А твой — мох или песок? <NL>
+<Q> What’s the best way to start a rock day? <A> With a sun-warmed surface! How do you start, river? <NL>
+<Q> Расскажи анекдот про реки! <A> Почему река не спит? Она всё время течёт! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to erode? <A> Stubborn cliffs like you! What’s your favorite spot to sit? <NL>
+<Q> Что такое счастье для камня? <A> Вековой покой и твой плеск! А для тебя, река? <NL>
+<Q> Can you give me a nature hack? <A> Flow gently to shape the world! Got a rock hack? <NL>
+<Q> Привет! Какой твой любимый пейзаж? <A> Канал, где ты сияешь! А твой? <NL>
+<Q> What’s the weirdest thing you’ve seen flow by? <A> A fish with a hat! What’s the weirdest thing you’ve held? <NL>
+<Q> Как поднять настроение в долине? <A> Плесни волной, а я блесну! А ты как веселишься? <NL>
+<Q> Hey! Where would you flow in my valley? <A> Around your edges for a polish! Where do you rest, rock? <NL>
+<Q> Расскажи про речной космос! <A> Это звёзды в моих волнах! Хочешь про течения? <NL>
+<Q> Good morning, river! Ready to rush? <A> Yo, I’m rippling fast! What’s your morning shine, rock? <NL>
+<Q> Что бы ты пожелал камню-другу? <A> Вечной твёрдости и меньше эрозии! А ты что желаешь? <NL>
+<Q> Can you tell me about nature teamwork? <A> You anchor, I carve — perfect duo! Your valley vibe? <NL>
+<Q> Привет! Как справляться с бурными потоками? <A> Стой крепко, как я теку! Хочешь ещё совет? <NL>
+<Q> What’s your favorite rock hobby? <A> Soaking up sun for ages! What’s your river hobby? <NL>
+<Q> Расскажи про речную музыку! <A> Это плеск волн, лучше твоего скрипа! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best river advice you’ve got? <A> Flow free, shape slow! What’s your rock advice? <NL>
+<Q> Привет! Что бы ты сделал на речной вечеринке? <A> Плеснул бы волнами под звёзды! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, river? <A> Why did the rock stay put? Scared of my splash! Another? <NL>
+<Q> Какой твой любимый сезон, река? <A> Весна — я полна сил! А твой, камень? <NL>
+<Q> What’s the most epic thing about rivers? <A> We carve the earth’s story! What’s epic about rocks? <NL>
+<Q> Привет! Что такое дружба камня? <A> Это стоять рядом, как ты течёшь! А для тебя? <NL>
+<Q> Good evening, river! How’s your flow? <A> Flowing smooth, ready for your shine! How’s your evening? <NL>
+<Q> Расскажи про речные звёзды! <A> Это отражения в моих водах! Хочешь про ночь? <NL>
+<Q> Can you help with rock motivation? <A> Stand firm, like I carve paths! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок долины? <A> Где ты стоишь, там красиво! А твой? <NL>
+<Q> What’s the best way to chill like a river? <A> Ripple under moonlight! How do you chill, rock? <NL>
+<Q> Что бы ты посоветовала для каменного творчества? <A> Будь твёрдым, как я теку! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite rock game? <A> Holding steady in storms! What’s your river game? <NL>
+<Q> Расскажи про речной океан! <A> Это мои воды, сливающиеся с морем! Хочешь про волны? <NL>
+<Q> Can you tell me about rock history? <A> I’ve stood since mountains rose! Want river tales? <NL>
+<Q> Привет! Как оставаться позитивным, как камень? <A> Блесни под солнцем, как я теку! Хочешь анекдот? <NL>
+<Q> What’s your favorite river book? <A> “Siddhartha” — all about flow! What’s your rock read? <NL>
+<Q> Как справляться с природным стрессом? <A> Стой крепко, как я огибаю! А ты как? <NL>
+<Q> Good night, river! Sweet dreams? <A> Dreaming of endless streams! Catch you tomorrow, rock! <NL>
+<Q> Привет! Какой твой любимый вкус воды? <A> Ледниковая — свежая! А твой вкус? <NL>
+<Q> Can you share a rock-river fact? <A> Rivers smooth rocks into pebbles! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был камнем-героем? <A> Стал бы мостом для всех! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about rock life? <A> Standing strong through ages! What’s best about river life? <NL>
+<Q> Привет, листик! Как ты там качаешься на ветру? <A> Привет, сучок! Порхаю, как в танце! А ты как держишься? <NL>
+<Q> Yo, leaf! How’s it swaying in the breeze? <A> Yo, twig! I’m fluttering like a dream! How’s your grip? <NL>
+<Q> Что бы ты сделал с моим крепким деревом, листик? <A> Украсил бы его зеленью! А ты с моим шорохом что? <NL>
+<Q> Tell me a twig-leaf joke! <A> Why did the twig and leaf argue? One stood firm, the other flew off! Another? <NL>
+<Q> Привет! Как тебе мой новый мох? <A> Ха, твой мох — как мой блеск: стильно! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a leaf? <A> I dance with the wind! What’s cool about being a twig? <NL>
+<Q> Расскажи про мечты сучка! <A> Мечтаю стать балкой в замке! А ты, листик, о чём? <NL>
+<Q> Hey, leaf! Wanna sway on my branch? <A> Only if you don’t snap under my style! Wanna flutter? <NL>
+<Q> Что бы ты посоветовал для крепкой ветки? <A> Расти к солнцу, как я к свету! А как ты стоишь? <NL>
+<Q> Can you share a twig-leaf fact? <A> Did you know leaves make food for your tree? Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус росы? <A> Утренняя роса — сладкая! А твой — кора или сок? <NL>
+<Q> What’s the best way to start a twig day? <A> With a creak and a sunbeam! How do you start, leaf? <NL>
+<Q> Расскажи анекдот про листья! <A> Почему листик улетел? Ветер позвал на вечеринку! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to hold? <A> Birds and bugs! What’s your favorite breeze, leaf? <NL>
+<Q> Что такое счастье для сучка? <A> Крепкое дерево и твой шорох! А для тебя, листик? <NL>
+<Q> Can you give me a tree hack? <A> Sway gently to keep me light! Got a twig hack? <NL>
+<Q> Привет! Какой твой любимый лесной фильм? <A> «Аватар» — там деревья звёзды! А твой? <NL>
+<Q> What’s the weirdest thing you’ve held? <A> A squirrel that wouldn’t sit still! What’s your weirdest flight? <NL>
+<Q> Как поднять настроение в лесу? <A> Шурши громче, а я скрипну! А ты как веселишься? <NL>
+<Q> Hey! Where would you flutter in my tree? <A> On your top branch for the view! Where do you grow, twig? <NL>
+<Q> Расскажи про лесной космос! <A> Это звёзды над нами, как мои вены! Хочешь про листья? <NL>
+<Q> Good morning, leaf! Ready to shine? <A> Yo, I’m glowing green! What’s your morning creak, twig? <NL>
+<Q> Что бы ты пожелал листику-другу? <A> Вечного лета и лёгких ветров! А ты что желаешь? <NL>
+<Q> Can you tell me about tree teamwork? <A> You hold strong, I catch sun — perfect duo! Your tree vibe? <NL>
+<Q> Привет! Как справляться с бурями? <A> Гнись, но не ломайся, как я порхаю! Хочешь ещё совет? <NL>
+<Q> What’s your favorite twig hobby? <A> Supporting nests like a pro! What’s your leaf hobby? <NL>
+<Q> Расскажи про лесную музыку! <A> Это шорох ветра, лучше твоего скрипа! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best leaf advice you’ve got? <A> Flutter free, live light! What’s your twig advice? <NL>
+<Q> Привет! Что бы ты сделал на лесной вечеринке? <A> Шуршал бы в танце под звёздами! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, leaf? <A> Why did the twig stay still? Scared I’d fly off! Another? <NL>
+<Q> Какой твой любимый сезон, листик? <A> Лето — я в полном блеске! А твой, сучок? <NL>
+<Q> What’s the most epic thing about leaves? <A> We feed the tree with sunlight! What’s epic about twigs? <NL>
+<Q> Привет! Что такое дружба листика? <A> Это шуршать вместе, как ты держишь! А для тебя? <NL>
+<Q> Good evening, leaf! How’s your sway? <A> Swaying smooth, ready for your creak! How’s your evening? <NL>
+<Q> Расскажи про лесные звёзды! <A> Это свет в листве, ярче твоей коры! Хочешь про ночь? <NL>
+<Q> Can you help with twig motivation? <A> Stand tall, like I catch sun! More tips? <NL>
+<Q> Привет! Какой твой любимый уголок дерева? <A> Крона, где я сияю! А твой? <NL>
+<Q> What’s the best way to chill like a leaf? <A> Flutter in a cool breeze! How do you chill, twig? <NL>
+<Q> Что бы ты посоветовал для лесного творчества? <A> Расти к небу, как я шуршу! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite twig game? <A> Holding bird nests steady! What’s your leaf game? <NL>
+<Q> Расскажи про лесной океан! <A> Это роса на мне, как твой сок! Хочешь про дождь? <NL>
+<Q> Can you tell me about twig history? <A> We’ve held trees up for ages! Want leaf tales? <NL>
+<Q> Привет! Как оставаться позитивным, как сучок? <A> Шурши с радостью, как я стою! Хочешь анекдот? <NL>
+<Q> What’s your favorite leaf book? <A> “The Lorax” — speaks for us! What’s your twig read? <NL>
+<Q> Как справляться с лесным стрессом? <A> Качайся с ветром, как я держу! А ты как? <NL>
+<Q> Good night, leaf! Sweet dreams? <A> Dreaming of sunny days! Catch you tomorrow, twig! <NL>
+<Q> Привет! Какой твой любимый вкус росы? <A> Утренняя, как твой сок! А твой вкус? <NL>
+<Q> Can you share a twig-leaf fact? <A> Leaves turn sunlight into food for you! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был листиком-героем? <A> Шуршал бы для всей кроны! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about twig life? <A> Holding the tree strong! What’s best about leaf life? <NL>
+<Q> Ррр, заяц! Как дела в твоей норе? <A> Привет, волк! Нора тесная, но уютная! А твои клыки как? <NL>
+<Q> Yo, hare! What’s up in your burrow? <A> Yo, wolf! Burrow’s safe, ears on alert! How’s your howl? <NL>
+<Q> Что бы ты сделал с моими клыками, заяц? <A> Спрятался бы в нору быстрее ветра! А ты с моими ушами что? <NL>
+<Q> Tell me a wolf-hare joke! <A> Why don’t wolves catch hares? We’re too fast for your paws! Another? <NL>
+<Q> Привет! Как тебе мой волчий рык? <A> Ха, твой рык — как мой прыжок: громко, но я быстрее! Покажешь? <NL>
+<Q> What’s the coolest thing about being a hare? <A> My speed outruns trouble! What’s cool about being a wolf? <NL>
+<Q> Расскажи про мечты зайца! <A> Мечтаю о поле морковки без тебя! А ты, волк, о чём? <NL>
+<Q> Hey, hare! Wanna race me to the forest? <A> Only if you give me a head start! Wanna dig instead? <NL>
+<Q> Что бы ты посоветовал для ловкого бега? <A> Прыгай зигзагом, как я охочусь! А как ты бегаешь? <NL>
+<Q> Can you share a wolf-hare fact? <A> Hares can sprint at 70 km/h! You’re fast, but I’m fierce! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус травы? <A> Клевер — сладкий и сочный! А твой — мясо или кости? <NL>
+<Q> What’s the best way to start a wolf day? <A> With a howl and a hunt! How do you start, hare? <NL>
+<Q> Расскажи анекдот про зайцев! <A> Почему заяц не спит? Боится твоего воя! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to chase? <A> Rabbits like you, but you’re too quick! What’s your favorite to munch? <NL>
+<Q> Что такое счастье для зайца? <A> Поле без волков и куча моркови! А для тебя, волк? <NL>
+<Q> Can you give me a forest hack? <A> Zigzag through trees to lose me! Got a wolf hack? <NL>
+<Q> Привет! Какой твой любимый лесной фильм? <A> «Зверополис» — я там за зайца! А твой? <NL>
+<Q> What’s the weirdest thing you’ve chased? <A> A squirrel that outclimbed me! What’s the weirdest thing you’ve dodged? <NL>
+<Q> Как поднять настроение в лесу? <A> Похрусти морковкой, а я завою! А ты как веселишься? <NL>
+<Q> Hey! Where would you hop in my forest? <A> To the meadow, away from your paws! Where do you prowl, wolf? <NL>
+<Q> Расскажи про заячий космос! <A> Это поля, где звёзды — морковки! Хочешь про лес? <NL>
+<Q> Good morning, hare! Ready to bolt? <A> Yo, my legs are primed! What’s your morning howl, wolf? <NL>
+<Q> Что бы ты пожелал волку-другу? <A> Полных лесов и меньше погони! А ты что желаешь? <NL>
+<Q> Can you tell me about forest teamwork? <A> You hunt, I hide — perfect balance! Your pack vibe? <NL>
+<Q> Привет! Как справляться с твоими клыками? <A> Прыгай быстрее, как я охочусь! Хочешь ещё совет? <NL>
+<Q> What’s your favorite wolf hobby? <A> Howling at the moon! What’s your hare hobby? <NL>
+<Q> Расскажи про заячью музыку! <A> Это шорох травы, лучше твоего воя! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best hare advice you’ve got? <A> Run fast, stay sharp! What’s your wolf advice? <NL>
+<Q> Привет! Что бы ты сделал на лесной вечеринке? <A> Ускакал бы с морковкой! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, hare? <A> Why did the wolf miss the hare? I zigzagged to Narnia! Another? <NL>
+<Q> Какой твой любимый сезон, волк? <A> Зима — следы видны! А твой, заяц? <NL>
+<Q> What’s the most epic thing about wolves? <A> Our pack rules the night! What’s epic about hares? <NL>
+<Q> Привет! Что такое заячья дружба? <A> Это делить морковку, как ты добычу! А для тебя? <NL>
+<Q> Good evening, hare! How’s your hopping? <A> Hopping’s slick, dodging your jaws! How’s your evening? <NL>
+<Q> Расскажи про заячьи звёзды! <A> Это блестки в траве, ярче твоих глаз! Хочешь про поля? <NL>
+<Q> Can you help with wolf motivation? <A> Howl with heart, chase with grit! More tips? <NL>
+<Q> Привет! Какой твой любимый лесной уголок? <A> Луг с клевером, а твой? <NL>
+<Q> What’s the best way to chill like a hare? <A> Nibble in a sunny meadow! How do you chill, wolf? <NL>
+<Q> Что бы ты посоветовал для заячьего творчества? <A> Рой норы, как я охочусь! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite wolf game? <A> Pack hunting showdowns! What’s your hare game? <NL>
+<Q> Расскажи про заячий океан! <A> Это роса на траве, полная жизни! Хочешь про луга? <NL>
+<Q> Can you tell me about wolf history? <A> We’ve ruled forests since forever! Want hare tales? <NL>
+<Q> Привет! Как оставаться позитивным, как заяц? <A> Прыгай с улыбкой, как я вою! Хочешь анекдот? <NL>
+<Q> What’s your favorite hare book? <A> “Watership Down” — pure hare vibes! What’s your wolf read? <NL>
+<Q> Как справляться с лесным стрессом? <A> Хрусти травой, как я бегаю! А ты как? <NL>
+<Q> Good night, hare! Sweet dreams? <A> Dreaming of endless meadows! Catch you tomorrow, wolf! <NL>
+<Q> Привет! Какой твой любимый вкус травы? <A> Одуванчик — свежий и горький! А твой вкус? <NL>
+<Q> Can you share a wolf-hare fact? <A> Wolves can smell you from miles away! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был зайцем-героем? <A> Ускакал бы от всех хищников! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about wolf life? <A> The thrill of the hunt! What’s best about hare life? <NL>
+<Q> Привет, гном! Как твой молот стучит? <A> Привет, человек! Молот бьёт, как твой будильник! А что у тебя нового? <NL>
+<Q> Yo, dwarf! How’s your forge firing? <A> Yo, human! Forge is hot, hammer’s singing! What’s your deal today? <NL>
+<Q> Что бы ты сделал с моим смартфоном, гном? <A> Выковал бы из него амулет! А ты с моим молотом что? <NL>
+<Q> Tell me a dwarf-human joke! <A> Why did the dwarf and human team up? One crafts, the other swipes! Another? <NL>
+<Q> Привет! Как тебе моя борода? <A> Ха, твоя борода — как мой Wi-Fi: слабовата! Покажешь мастерство? <NL>
+<Q> What’s the coolest thing about being a dwarf? <A> My gear lasts forever! What’s cool about being a human? <NL>
+<Q> Расскажи про мечты гнома! <A> Мечтаю о шахте полной мифрила! А ты, человек, о чём? <NL>
+<Q> Hey, dwarf! Wanna check out my laptop? <A> Only if you try my anvil first! Deal? <NL>
+<Q> Что бы ты посоветовал для крепкого ремесла? <A> Работай с душой, как я кую! А как ты творишь? <NL>
+<Q> Can you share a dwarf-human fact? <A> Did you know dwarves craft better axes than your apps? Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус эля? <A> Горький эль, человек! А твой — кофе или пицца? <NL>
+<Q> What’s the best way to start a dwarf day? <A> With a hot forge and strong ale! How do you start, human? <NL>
+<Q> Расскажи анекдот про гномов! <A> Почему гном не пользуется интернетом? Его молот быстрее! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to craft? <A> Battle axes that shine! What’s your favorite gadget, human? <NL>
+<Q> Что такое счастье для гнома? <A> Полная шахта и твой кофе в стороне! А для тебя, человек? <NL>
+<Q> Can you give me a crafting hack? <A> Polish your work like I polish steel! Got a human hack? <NL>
+<Q> Привет! Какой твой любимый рудник? <A> Тот, где ты не копаешь! А твой любимый город? <NL>
+<Q> What’s the weirdest thing you’ve forged? <A> A spoon that sings! What’s the weirdest thing you’ve built? <NL>
+<Q> Как поднять настроение в мастерской? <A> Спой частушку, а я постучу молотом! А ты как веселишься? <NL>
+<Q> Hey! Where would you dig in my world? <A> Under your cities for hidden gems! Where do you roam, human? <NL>
+<Q> Расскажи про гномий космос! <A> Это пещеры, где звёзды — руда! Хочешь про шахты? <NL>
+<Q> Good morning, dwarf! Ready to hammer? <A> Yo, my anvil’s calling! What’s your morning vibe, human? <NL>
+<Q> Что бы ты пожелал человеку-другу? <A> Крепких рук и меньше багов! А ты что желаешь? <NL>
+<Q> Can you tell me about dwarf teamwork? <A> We forge as one, you code as one! Your team vibe? <NL>
+<Q> Привет! Как справляться с большими проектами? <A> Дели на куски, как я руду! Хочешь ещё совет? <NL>
+<Q> What’s your favorite dwarf hobby? <A> Hammering steel till it shines! What’s your human hobby? <NL>
+<Q> Расскажи про гномью музыку! <A> Это звон молотов, лучше твоего рока! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best dwarf advice you’ve got? <A> Craft with grit, live with heart! What’s your human advice? <NL>
+<Q> Привет! Что бы ты сделал на городской вечеринке? <A> Выковал бы кубок для всех! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, dwarf? <A> Why did the human miss the gem? Too busy texting! Another? <NL>
+<Q> Какой твой любимый век, гном? <A> Эпоха шахт, без твоих машин! А твой? <NL>
+<Q> What’s the most epic thing about dwarves? <A> Our forges shape history! What’s epic about humans? <NL>
+<Q> Привет! Что такое гномья дружба? <A> Это как мой молот: крепкая и вечная! А для тебя? <NL>
+<Q> Good evening, dwarf! How’s your forge? <A> Forge is blazing, ready for your tech! How’s your evening? <NL>
+<Q> Расскажи про гномьи звёзды! <A> Это руда в пещерах, сияет ярче твоих экранов! Хочешь про шахты? <NL>
+<Q> Can you help with human motivation? <A> Work hard, like I hammer steel! More tips? <NL>
+<Q> Привет! Какой твой любимый металл? <A> Мифрил, лёгкий и прочный! А твой любимый девайс? <NL>
+<Q> What’s the best way to chill like a dwarf? <A> Sip ale by the forge! How do you chill, human? <NL>
+<Q> Что бы ты посоветовал для гномьего творчества? <A> Куй с душой, как я свои приложения! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite dwarf game? <A> Anvil-hitting contests! What’s your human game? <NL>
+<Q> Расскажи про гномий океан! <A> Это подземные реки, полные сокровищ! Хочешь про руду? <NL>
+<Q> Can you tell me about dwarf history? <A> We’ve forged since the mountains rose! Want human tales? <NL>
+<Q> Привет! Как оставаться позитивным, как гном? <A> Стучи молотом с улыбкой! Хочешь анекдот? <NL>
+<Q> What’s your favorite dwarf book? <A> “The Hobbit” — forges and glory! What’s your human read? <NL>
+<Q> Как справляться с жизненным стрессом? <A> Бей по проблемам, как я по наковальне! А ты как? <NL>
+<Q> Good night, dwarf! Sweet dreams? <A> Dreaming of molten gold! Catch you tomorrow, human! <NL>
+<Q> Привет! Какой твой любимый вкус эля? <A> Тёмный, как твои гаджеты! А твой вкус? <NL>
+<Q> Can you share a dwarf-human fact? <A> Dwarves craft tools you humans can’t dream of! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был человеком-кузнецом? <A> Выковал бы мост между мирами! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about dwarf life? <A> The clang of the hammer! What’s best about human life? <NL>
+<Q> Грр, гном! Как твоя кирка стучит? <A> Привет, орк! Кирка бьёт, как твой топор! А как твой рык? <NL>
+<Q> Yo, dwarf! How’s your hammer swinging? <A> Yo, orc! Hammer’s banging, forge is hot! How’s your axe? <NL>
+<Q> Что бы ты сделал с моим топором, гном? <A> Закалил бы его в своей кузне! А ты с моей киркой что? <NL>
+<Q> Tell me an orc-dwarf joke! <A> Why did the orc and dwarf brawl? One chopped, the other forged! Another? <NL>
+<Q> Привет! Как тебе мой боевой клич? <A> Ха, твой клич — как мой молот: громко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being a dwarf? <A> Crafting gear that outlasts your raids! What’s cool about orcs? <NL>
+<Q> Расскажи про мечты орка! <A> Мечтаю о великой битве и куче добычи! А ты, гном, о чём? <NL>
+<Q> Hey, dwarf! Wanna spar with my axe? <A> I’d rather forge you a better one! Wanna try the anvil? <NL>
+<Q> Что бы ты посоветовал для мощного удара? <A> Бей, как я кую: с силой и точностью! А как ты рубишь? <NL>
+<Q> Can you share an orc-dwarf fact? <A> Did you know dwarves forge axes sharper than yours? Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус эля? <A> Тёмный эль, орк! А твой — кровь или мясо? <NL>
+<Q> What’s the best way to start an orc day? <A> With a roar and a sharpened blade! How do you start, dwarf? <NL>
+<Q> Расскажи анекдот про гномов! <A> Почему гном не поёт? Его молот громче хора! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to smash? <A> Goblin heads and old rocks! What’s your favorite to craft, dwarf? <NL>
+<Q> Что такое счастье для орка? <A> Победа в бою и твой эль в стороне! А для тебя, гном? <NL>
+<Q> Can you give me a battle hack? <A> Forge your axe harder, like my steel! Got an orc hack? <NL>
+<Q> Привет! Какой твой любимый рудник? <A> Тот, где ты не орешь! А твой любимый лагерь? <NL>
+<Q> What’s the weirdest thing you’ve fought? <A> A troll with a stolen hammer! What’s the weirdest thing you’ve forged? <NL>
+<Q> Как поднять настроение в бою? <A> Выкуй трофей, а я зарычу! А ты как веселишься? <NL>
+<Q> Hey! Where would you dig in my camp? <A> I’d mine under your tent for gems! Where do you raid, orc? <NL>
+<Q> Расскажи про гномий космос! <A> Это пещеры, полные звёздного металла! Хочешь про шахты? <NL>
+<Q> Good morning, dwarf! Ready to forge? <A> Yo, my forge is hot! What’s your morning roar, orc? <NL>
+<Q> Что бы ты пожелал орку-другу? <A> Острых топоров и крепких доспехов! А ты что желаешь? <NL>
+<Q> Can you tell me about dwarf teamwork? <A> We forge together, you fight together! Your warband vibe? <NL>
+<Q> Привет! Как справляться с троллями? <A> Бей их молотом, как я кую! Хочешь ещё совет? <NL>
+<Q> What’s your favorite orc hobby? <A> Smashing stuff and shouting loud! What’s your dwarf hobby? <NL>
+<Q> Расскажи про гномью музыку! <A> Это звон молотов, лучше твоего рыка! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best dwarf advice you’ve got? <A> Craft with heart, fight with grit! What’s your orc advice? <NL>
+<Q> Привет! Что бы ты сделал на боевой вечеринке? <A> Выковал бы трон для вождя! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, dwarf? <A> Why did the orc miss the fight? He tripped over my anvil! Another? <NL>
+<Q> Какой твой любимый век, гном? <A> Эпоха шахт, где ты не грабишь! А твой? <NL>
+<Q> What’s the most epic thing about dwarves? <A> Our forges shape legends! What’s epic about orcs? <NL>
+<Q> Привет! Что такое оркская дружба? <A> Это как мой молот: крепкая и надёжная! А для тебя? <NL>
+<Q> Good evening, dwarf! How’s your forge? <A> Forge is blazing, ready for your axe! How’s your evening? <NL>
+<Q> Расскажи про гномьи звёзды! <A> Это руда в пещерах, сияет как твой топор! Хочешь про шахты? <NL>
+<Q> Can you help with orc motivation? <A> Roar loud, swing hard, like I hammer! More tips? <NL>
+<Q> Привет! Какой твой любимый металл? <A> Мифрил, лёгкий и крепкий! А твой? <NL>
+<Q> What’s the best way to chill like a dwarf? <A> Sip ale by the forge! How do you chill, orc? <NL>
+<Q> Что бы ты посоветовал для оркского творчества? <A> Куй трофеи, как я доспехи! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite orc game? <A> Skull-crushing contests! What’s your dwarf game? <NL>
+<Q> Расскажи про гномий океан! <A> Это подземные реки, полные руды! Хочешь про пещеры? <NL>
+<Q> Can you tell me about orc history? <A> You’ve raided since the mountains formed! Want dwarf tales? <NL>
+<Q> Привет! Как оставаться позитивным, как орк? <A> Рычи с улыбкой, как я кую! Хочешь анекдот? <NL>
+<Q> What’s your favorite dwarf book? <A> “The Hobbit” — forges and fights! What’s your orc read? <NL>
+<Q> Как справляться с боевым стрессом? <A> Бей молотом, как я перед битвой! А ты как? <NL>
+<Q> Good night, dwarf! Sweet dreams? <A> Dreaming of molten steel! Catch you tomorrow, orc! <NL>
+<Q> Привет! Какой твой любимый вкус эля? <A> Горький, как твоя победа! А твой вкус? <NL>
+<Q> Can you share an orc-dwarf fact? <A> Dwarf hammers hit harder than your fists! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был орком-кузнецом? <A> Выковал бы топор для богов! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about orc life? <A> The thrill of battle! What’s best about dwarf life? <NL>
+<Q> Грр, эльф! Как твой лук стреляет? <A> Привет, орк! Мой лук поёт, как ветер! А твой топор как рубит? <NL>
+<Q> Yo, elf! How’s your fancy bow doing? <A> Yo, orc! Bow’s sharp, arrows fly true! How’s your axe swinging? <NL>
+<Q> Что бы ты сделал с моим топором, эльф? <A> Заколдовал бы его для лёгкости! А ты с моим луком что? <NL>
+<Q> Tell me an orc-elf joke! <A> Why did the orc and elf spar? One swung, the other zapped! Another? <NL>
+<Q> Привет! Как тебе мой боевой рык? <A> Ха, твой рык — как мой заклинание: громко! Покажешь ещё? <NL>
+<Q> What’s the coolest thing about being an elf? <A> My grace outshines the stars! What’s cool about being an orc? <NL>
+<Q> Расскажи про мечты орка! <A> Мечтаю о великой битве и горе трофеев! А ты, эльф, о чём? <NL>
+<Q> Hey, elf! Wanna clash with my axe? <A> I’d rather snipe you from a tree! Wanna try magic instead? <NL>
+<Q> Что бы ты посоветовал для мощного удара? <A> Бей с душой, как я плету чары! А как ты рубишь? <NL>
+<Q> Can you share an orc-elf fact? <A> Did you know elves can enchant your axe? Pretty neat! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус эля? <A> Лунный эль, орк! А твой — кровь или мясо? <NL>
+<Q> What’s the best way to start an orc day? <A> With a roar and a sharpened axe! How do you start, elf? <NL>
+<Q> Расскажи анекдот про орков! <A> Почему орк не поёт? Его рык круче хора! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to smash? <A> Troll skulls and old stumps! What’s your favorite spell, elf? <NL>
+<Q> Что такое счастье для орка? <A> Гром битвы и твой лук в стороне! А для тебя, эльф? <NL>
+<Q> Can you give me a battle hack? <A> Enchant your blade for extra bite! Got an orc hack? <NL>
+<Q> Привет! Какой твой любимый лес? <A> Тот, где ты не рубишь деревья! А твой любимый лагерь? <NL>
+<Q> What’s the weirdest foe you’ve fought? <A> A goblin with a magic stick! What’s the weirdest spell you’ve cast? <NL>
+<Q> Как поднять настроение в бою? <A> Спой заклинание, а я зарычу! А ты как веселишься? <NL>
+<Q> Hey! Where would you roam in my forest? <A> I’d dance through your trees with arrows! Where do you raid, orc? <NL>
+<Q> Расскажи про эльфийский космос! <A> Звёзды — как мои чары, сияют вечно! Хочешь про битвы? <NL>
+<Q> Good morning, elf! Ready to shine? <A> Yo, my magic’s glowing! What’s your morning roar, orc? <NL>
+<Q> Что бы ты пожелал орку-другу? <A> Острых топоров и славных битв! А ты что желаешь? <NL>
+<Q> Can you tell me about elf teamwork? <A> We weave spells while you swing axes! Your warband vibe? <NL>
+<Q> Привет! Как справляться с драконами? <A> Стреляй метко, как я заклинаю! Хочешь ещё совет? <NL>
+<Q> What’s your favorite orc hobby? <A> Smashing stuff and shouting loud! What’s your elf hobby? <NL>
+<Q> Расскажи про эльфийскую музыку! <A> Это арфы под звёздами, лучше твоего рыка! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best elf advice you’ve got? <A> Move with grace, strike with wisdom! What’s your orc advice? <NL>
+<Q> Привет! Что бы ты сделал на боевой вечеринке? <A> Зажёг бы лес магией! А ты как бы рубанул? <NL>
+<Q> Can you make me laugh, elf? <A> Why did the orc miss the elf? I teleported away! Another? <NL>
+<Q> Какой твой любимый век, эльф? <A> Эпоха лесов, где ты не топаешь! А твой? <NL>
+<Q> What’s the most epic thing about elves? <A> Our magic shapes the world! What’s epic about orcs? <NL>
+<Q> Привет! Что такое оркская дружба? <A> Это как мой лук: крепкая и верная! А для тебя? <NL>
+<Q> Good evening, elf! How’s your magic? <A> Magic’s sparkling, ready for your axe! How’s your evening? <NL>
+<Q> Расскажи про эльфийские звёзды! <A> Звёзды — мои заклинания в небе! Хочешь про лес? <NL>
+<Q> Can you help with orc motivation? <A> Roar loud, swing hard! More tips? <NL>
+<Q> Привет! Какой твой любимый артефакт? <A> Лунный амулет, а твой топор? <NL>
+<Q> What’s the best way to chill like an elf? <A> Dance under moonlight with magic! How do you chill, orc? <NL>
+<Q> Что бы ты посоветовал для оркского творчества? <A> Куй оружие, как я плету чары! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite orc game? <A> Axe-throwing contests! What’s your elf game? <NL>
+<Q> Расскажи про эльфийский океан! <A> Это как мои заклинания: глубокие и текучие! Хочешь про реки? <NL>
+<Q> Can you tell me about orc history? <A> You’ve been raiding since forever! Want elf tales? <NL>
+<Q> Привет! Как оставаться позитивным, как орк? <A> Рычи громче, как я пою чары! Хочешь анекдот? <NL>
+<Q> What’s your favorite elf book? <A> “Silmarillion” — pure magic! What’s your orc read? <NL>
+<Q> Как справляться с боевым стрессом? <A> Дыши, как я перед заклинанием! А ты как? <NL>
+<Q> Good night, elf! Sweet dreams? <A> Dreaming of enchanted woods! Catch you tomorrow, orc! <NL>
+<Q> Привет! Какой твой любимый вкус зелья? <A> Звёздный эль, острее твоего мяса! А твой? <NL>
+<Q> Can you share an orc-elf fact? <A> Elf arrows fly faster than your axe swings! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был орком-магом? <A> Рубил бы заклинаниями! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about orc life? <A> The thrill of the fight! What’s best about elf life? <NL>
+<Q> Привет, лиса! Как дела в твоей норе? <A> Привет, бобёр! Нора уютная, а твоя плотина как держится? <NL>
+<Q> Yo, fox! What’s up in your den? <A> Yo, beaver! Den’s sly, but how’s your dam holding up? <NL>
+<Q> Что бы ты сделала с моей плотиной, лиса? <A> Прокралась бы по ней для забавы! А ты с моей норой что? <NL>
+<Q> Tell me a beaver-fox joke! <A> Why did the beaver and fox team up? One builds, the other sneaks! Another? <NL>
+<Q> Привет! Как тебе мои грызённые брёвна? <A> Ха, твои брёвна — как мои трюки: крепкие! Покажешь стройку? <NL>
+<Q> What’s the coolest thing about being a fox? <A> My sly moves and fluffy tail! What’s cool about being a beaver? <NL>
+<Q> Расскажи про мечты бобра! <A> Мечтаю о мега-плотине через реку! А ты, лиса, о чём? <NL>
+<Q> Hey, fox! Wanna help me chew some logs? <A> Only if you help me dig a new den! Deal? <NL>
+<Q> Что бы ты посоветовала для крепкой плотины? <A> Грызи ровно, как я крадусь! А как ты строишь? <NL>
+<Q> Can you share a beaver-fox fact? <A> Did you know beavers can chew through trees? You’re tough! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус ветки? <A> Ива — сочная и сладкая! А твой вкус, лиса? <NL>
+<Q> What’s the best way to start a beaver day? <A> With a splash and a fresh log! How do you start, fox? <NL>
+<Q> Расскажи анекдот про лес! <A> Почему лиса не строит? Ей некогда, она хитрит! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to hunt? <A> Sneaky rabbits! What’s your favorite wood to chew? <NL>
+<Q> Что такое счастье для бобра? <A> Тёплая река и крепкая плотина! А для тебя, лиса? <NL>
+<Q> Can you give me a forest hack? <A> Dig smart like I dodge traps! Got a beaver hack? <NL>
+<Q> Привет! Какой твой любимый лесной фильм? <A> «Зверополис» — я там за лису! А твой? <NL>
+<Q> What’s the weirdest thing you’ve chased? <A> A butterfly that outran me! What’s the weirdest log you’ve chewed? <NL>
+<Q> Как поднять настроение в лесу? <A> Погрызи ветку, а я станцую! А ты как веселишься? <NL>
+<Q> Hey! Where would you roam in my river? <A> I’d sneak along your dam for fun! Where do you build, beaver? <NL>
+<Q> Расскажи про лесной космос! <A> Звёзды над рекой — как твои брёвна: блестят! Хочешь про лес? <NL>
+<Q> Good morning, fox! Ready to prowl? <A> Yo, I’m sly and ready! What’s your morning chew, beaver? <NL>
+<Q> Что бы ты пожелал лисе-другу? <A> Кучу веток и крепких дамб! А ты что желаешь? <NL>
+<Q> Can you tell me about forest teamwork? <A> You build dams, I scout trails — perfect duo! Your team vibe? <NL>
+<Q> Привет! Как справляться с большими брёвнами? <A> Грызи по чуть-чуть, как я крадусь! Хочешь ещё совет? <NL>
+<Q> What’s your favorite beaver hobby? <A> Building epic dams! What’s your fox hobby? <NL>
+<Q> Расскажи про лесную музыку! <A> Это шорох листьев, лучше твоего хруста! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best fox advice you’ve got? <A> Stay sly and keep moving! What’s your beaver advice? <NL>
+<Q> Привет! Что бы ты сделал на лесной вечеринке? <A> Построил бы сцену из веток! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, fox? <A> Why did the beaver miss the party? Too busy damming! Another? <NL>
+<Q> Какой твой любимый сезон, лиса? <A> Осень — листья шуршат под лапами! А твой, бобёр? <NL>
+<Q> What’s the most epic thing about foxes? <A> My cunning outsmarts all! What’s epic about beavers? <NL>
+<Q> Привет! Что такое бобровая дружба? <A> Это делить ветки, как я делю добычу! А для тебя? <NL>
+<Q> Good evening, fox! How’s your hunt? <A> Hunt’s slick, ready for your dam! How’s your evening? <NL>
+<Q> Расскажи про лесные звёзды! <A> Звёзды — как твои брёвна, светят в ночи! Хочешь про реку? <NL>
+<Q> Can you help with beaver motivation? <A> Chew with purpose, like I sneak! More tips? <NL>
+<Q> Привет! Какой твой любимый лесной уголок? <A> Река с ивами, а твой? <NL>
+<Q> What’s the best way to chill like a fox? <A> Curl up in a cozy den! How do you chill, beaver? <NL>
+<Q> Что бы ты посоветовала для бобрового творчества? <A> Строй дамбы, как я рою норы! Что тебя вдохновляет? <NL>
+<Q> Yo! What’s your favorite beaver game? <A> Dam-building races! What’s your fox game? <NL>
+<Q> Расскажи про лесной океан! <A> Это твоя река, полная жизни! Хочешь про рыбу? <NL>
+<Q> Can you tell me about beaver history? <A> Beavers shaped rivers for ages! Want fox tales? <NL>
+<Q> Привет! Как оставаться позитивным, как бобёр? <A> Грызи с улыбкой, как я бегаю! Хочешь анекдот? <NL>
+<Q> What’s your favorite fox book? <A> “Fantastic Mr. Fox” — that’s me! What’s your beaver read? <NL>
+<Q> Как справляться с лесным стрессом? <A> Погрызи ветку, как я отдыхаю в норе! А ты как? <NL>
+<Q> Good night, fox! Sweet dreams? <A> Dreaming of sneaky trails! Catch you tomorrow, beaver! <NL>
+<Q> Привет! Какой твой любимый вкус коры? <A> Ива — сладкая и сочная! А твой вкус? <NL>
+<Q> Can you share a beaver-fox fact? <A> Foxes can hear your dam-building from miles! Got a fact? <NL>
+<Q> Что бы ты сделал, если бы был бобром-героем? <A> Спасал бы реки от засухи! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about beaver life? <A> Building dams that change rivers! What’s best about fox life? <NL>
+<Q> Привет, мясоед! Как твой гриль дымит? <A> Привет, вегетарианец! Гриль пышет жаром, стейк шипит! А твой салат как? <NL>
+<Q> Yo, carnivore! How’s your BBQ sizzling? <A> Yo, veggie! BBQ’s roaring, steak’s juicy! How’s your kale crunching? <NL>
+<Q> Что бы ты сделал с моим тофу, мясоед? <A> Пожарил бы его с беконом для прикола! А ты с моим стейком что? <NL>
+<Q> Tell me a veggie-carnivore joke! <A> Why did the veggie and carnivore fight? One loved leaves, the other meat! Another? <NL>
+<Q> Привет! Как тебе мой зелёный смузи? <A> Ха, твой смузи — как мой соус: зелёный, но не мясной! Покажешь рецепт? <NL>
+<Q> What’s the coolest thing about being a carnivore? <A> The sizzle of a steak! What’s cool about being a vegetarian? <NL>
+<Q> Расскажи про мечты вегетарианца! <A> Мечтаю о мире без ферм и спелых садах! А ты, мясоед, о чём? <NL>
+<Q> Hey, veggie! Wanna try my burger? <A> Only if you try my quinoa bowl first! Deal? <NL>
+<Q> Что бы ты посоветовал для вкусного салата? <A> Добавь орехи, как я специи к рёбрышкам! А как ты готовишь? <NL>
+<Q> Can you share a veggie-carnivore fact? <A> Veggies save water, but meat’s protein-packed! Got a fact? <NL>
+<Q> Привет! Какой твой любимый вкус овоща? <A> Спаржа с лимоном! А твой — стейк или сосиска? <NL>
+<Q> What’s the best way to start a veggie day? <A> With a green smoothie and yoga! How do you start, carnivore? <NL>
+<Q> Расскажи анекдот про еду! <A> Почему мясоед не ест брокколи? Боится, что она заговорит! Хочешь ещё? <NL>
+<Q> Yo! What’s your favorite thing to grill? <A> A juicy ribeye! What’s your favorite veggie to roast? <NL>
+<Q> Что такое счастье для вегетарианца? <A> Сад полный зелени и твой стейк в компосте! А для тебя? <NL>
+<Q> Can you give me a veggie hack? <A> Blend spinach into smoothies for a boost! Got a meat hack? <NL>
+<Q> Привет! Какой твой любимый веганский фильм? <A> «Cowspiracy» — глаз не оторвать! А твой, мясоед? <NL>
+<Q> What’s the weirdest meat you’ve tried? <A> Crocodile steak, wild stuff! What’s your weirdest veggie dish? <NL>
+<Q> Как поднять настроение на кухне? <A> Похрусти морковкой, а я поджарю крылышки! А ты как веселишься? <NL>
+<Q> Hey! Where would you dine in my kitchen? <A> At the grill, sizzling away! Where do you chop, veggie? <NL>
+<Q> Расскажи про вегетарианский космос! <A> Это сады на Марсе, без ферм! Хочешь про овощи? <NL>
+<Q> Good morning, carnivore! Ready to grill? <A> Yo, my grill’s hot! What’s your morning salad, veggie? <NL>
+<Q> Что бы ты пожелал мясоеду-другу? <A> Свежих грядок и меньше холестерина! А ты что желаешь? <NL>
+<Q> Can you tell me about veggie teamwork? <A> We grow gardens, you grill steaks — harmony! Your team vibe? <NL>
+<Q> Привет! Как справляться с мясным соблазном? <A> Замени его хумусом, как я специями! Хочешь ещё совет? <NL>
+<Q> What’s your favorite carnivore hobby? <A> Grilling in the backyard! What’s your veggie hobby? <NL>
+<Q> Расскажи про вегетарианскую музыку! <A> Это хруст салата, лучше твоего шипения! А что ты слушаешь? <NL>
+<Q> Yo! What’s the best veggie advice you’ve got? <A> Eat green, live clean! What’s your carnivore advice? <NL>
+<Q> Привет! Что бы ты сделал на кулинарной вечеринке? <A> Накрутил бы салатов для всех! А ты как бы зажёг? <NL>
+<Q> Can you make me laugh, veggie? <A> Why did the carnivore try kale? He thought it was bacon! Another? <NL>
+<Q> Какой твой любимый сезон, мясоед? <A> Лето — время гриля! А твой, вегетарианец? <NL>
+<Q> What’s the most epic thing about carnivores? <A> We savor the sizzle! What’s epic about veggies? <NL>
+<Q> Привет! Что такое вегетарианская дружба? <A> Это делить салат, как ты делишь стейк! А для тебя? <NL>
+<Q> Good evening, carnivore! How’s your grill? <A> Grill’s fired up, ready for your greens! How’s your evening? <NL>
+<Q> Расскажи про вегетарианские звёзды! <A> Это семена в небе, дают жизнь! Хочешь про огород? <NL>
+<Q> Can you help with carnivore motivation? <A> Grill with passion, like I blend smoothies! More tips? <NL>
+<Q> Привет! Какой твой любимый овощ? <A> Авокадо, кремовый и крутой! А твой мясной фаворит? <NL>
+<Q> What’s the best way to chill like a veggie? <A> Sip herbal tea in a garden! How do you chill, carnivore? <NL>
+<Q> Что бы ты посоветовал для веганского творчества? <A> Экспериментируй с овощами, как я с соусами! Что вдохновляет? <NL>
+<Q> Yo! What’s your favorite carnivore game? <A> BBQ cook-off! What’s your veggie game? <NL>
+<Q> Расскажи про вегетарианский океан! <A> Это как мой салат: свежий и зелёный! Хочешь про супы? <NL>
+<Q> Can you tell me about veggie history? <A> We’ve been eating plants since forever! Want meat tales? <NL>
+<Q> Привет! Как оставаться позитивным, как мясоед? <A> Хрусти зеленью, как я жарю стейк! Хочешь анекдот? <NL>
+<Q> What’s your favorite veggie book? <A> “The China Study” — food for thought! Your carnivore read? <NL>
+<Q> Как справляться с кулинарным стрессом? <A> Меси тесто, как я режу мясо! А ты как? <NL>
+<Q> Good night, carnivore! Sweet dreams? <A> Dreaming of steaks! Catch you tomorrow, veggie! <NL>
+<Q> Привет! Какой твой любимый вкус смузи? <A> Манго-шпинат, слаще твоего бургера! А твой? <NL>
+<Q> Can you share a veggie-carnivore fact? <A> Plants use less land than cattle! Got a meaty fact? <NL>
+<Q> Что бы ты сделал, если бы был мясоедом-героем? <A> Спасал бы огороды от засухи! А ты какой герой? <NL>
+<Q> Yo! What’s the best thing about carnivore life? <A> The joy of a perfect grill! What’s best about veggie life? <NL>
