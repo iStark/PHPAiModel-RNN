@@ -1,20 +1,30 @@
 <?php
-/*
- * PHPAiModel-RNN — index.php
- * Simple web UI for chat with the PHP RNN model: message form, AJAX, and response rendering.
- *
- * Developed by: Artur Strazewicz — concept, architecture, PHP RNN runtime, UI.
- * Year: 2025. License: MIT.
- *
- * Links:
- *   GitHub:      https://github.com/iStark/PHPAiModel-RNN
- *   LinkedIn:    https://www.linkedin.com/in/arthur-stark/
- *   TruthSocial: https://truthsocial.com/@strazewicz
- *   X (Twitter): https://x.com/strazewicz
- */
-$modelsDir = __DIR__ . '/Models';
-if (!is_dir($modelsDir)) { @mkdir($modelsDir, 0777, true); }
-$models = array_values(array_filter(is_dir($modelsDir) ? scandir($modelsDir) : [], fn($f)=>preg_match('/\.json$/i',$f)));
+declare(strict_types=1);
+
+// Папка с моделями
+$MODELS_DIR = __DIR__ . DIRECTORY_SEPARATOR . 'Models';
+@mkdir($MODELS_DIR, 0777, true);
+
+// PHP 7.4 safe ends_with
+function ends_with(string $haystack, string $needle): bool {
+    $len = strlen($needle);
+    if ($len === 0) return true;
+    return substr($haystack, -$len) === $needle;
+}
+function list_files(string $dir, string $ext): array {
+    if (!is_dir($dir)) return [];
+    $files = scandir($dir) ?: [];
+    $out = [];
+    foreach ($files as $f) {
+        if ($f === '.' || $f === '..') continue;
+        $lf = strtolower($f);
+        if (ends_with($lf, '.' . strtolower($ext))) $out[] = $f;
+    }
+    sort($out);
+    return $out;
+}
+
+$models = list_files($MODELS_DIR, 'json');
 ?>
 <!doctype html>
 <html lang="ru">
@@ -51,7 +61,7 @@ $models = array_values(array_filter(is_dir($modelsDir) ? scandir($modelsDir) : [
     <select id="model" title="Выберите модель из /Models">
         <option value="">— выберите —</option>
         <?php foreach($models as $m): ?>
-            <option><?= htmlspecialchars($m, ENT_QUOTES|ENT_SUBSTITUTE, 'UTF-8') ?></option>
+            <option value="<?= htmlspecialchars($m, ENT_QUOTES|ENT_SUBSTITUTE, 'UTF-8') ?>"><?= htmlspecialchars($m, ENT_QUOTES|ENT_SUBSTITUTE, 'UTF-8') ?></option>
         <?php endforeach; ?>
     </select>
     <button id="clear">Сбросить диалог</button>
@@ -81,36 +91,70 @@ $models = array_values(array_filter(is_dir($modelsDir) ? scandir($modelsDir) : [
         <a href="https://truthsocial.com/@strazewicz" style="color:#aaa; margin:0 8px; text-decoration:none;">TruthSocial</a>
     </div>
 </footer>
+
 <script>
-    function addMsg(text, who){
-        const el = document.createElement('div');
-        el.className = 'bubble ' + (who==='user'?'me':'bot');
-        el.textContent = text;
-        const chat = document.getElementById('chat');
-        chat.appendChild(el);
-        chat.scrollTop = chat.scrollHeight;
+    const elChat   = document.getElementById('chat');
+    const elSend   = document.getElementById('send');
+    const elClear  = document.getElementById('clear');
+    const elPrompt = document.getElementById('prompt');
+    const elModel  = document.getElementById('model');
+
+    function addBubble(text, who){
+        const div = document.createElement('div');
+        div.className = 'bubble ' + (who==='me' ? 'me' : 'bot');
+        div.textContent = text;
+        elChat.appendChild(div);
+        elChat.scrollTop = elChat.scrollHeight;
     }
-    async function send(){
-        const select = document.getElementById('model');
-        const model = select.value;
-        if(!model){ alert('Выберите модель из /Models'); return; }
-        const prompt = document.getElementById('prompt');
-        const text = prompt.value.trim();
-        if(!text) return;
-        prompt.value='';
-        addMsg(text,'user');
+
+    async function sendMessage(){
+        const model = (elModel.value || '').trim();
+        const prompt = (elPrompt.value || '').trim();
+        if (!model){ addBubble('Ошибка: выберите модель.', 'bot'); return; }
+        if (!prompt){ return; }
+
+        addBubble(prompt, 'me');
+        elPrompt.value = '';
+        elSend.disabled = true;
+
         try{
+            const body = {
+                model,
+                prompt,
+                temperature: 0.9,
+                top_k: 50,
+                max_tokens: 300
+            };
             const res = await fetch('aicore.php', {
-                method:'POST', headers:{'Content-Type':'application/json'},
-                body: JSON.stringify({ model: model, user: text, temperature: 1.0, top_k: 20, max_tokens: 60 })
+                method: 'POST',
+                headers: { 'Content-Type':'application/json' },
+                body: JSON.stringify(body)
             });
-            const data = await res.json();
-            addMsg(data.reply || ('[error] '+(data.error||'unknown')), 'bot');
-        }catch(e){ addMsg('[network error] '+e, 'bot'); }
+            let js;
+            try { js = await res.json(); } catch(e){ throw new Error('Некорректный ответ от aicore.php'); }
+            if (!js.ok) throw new Error(js.error || 'Ошибка инференса');
+            addBubble(js.reply || '(пусто)', 'bot');
+        } catch(err){
+            addBubble('Ошибка: ' + (err.message || String(err)), 'bot');
+        } finally {
+            elSend.disabled = false;
+            elPrompt.focus();
+        }
     }
-    document.getElementById('send').onclick = send;
-    document.getElementById('clear').onclick = function(){ document.getElementById('chat').innerHTML=''; };
-    document.getElementById('prompt').addEventListener('keydown', e=>{ if(e.key==='Enter' && !e.shiftKey){ e.preventDefault(); send(); }});
+
+    elSend.addEventListener('click', sendMessage);
+    elPrompt.addEventListener('keydown', (e)=>{
+        if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+
+    elClear.addEventListener('click', async ()=>{
+        try { await fetch('aicore.php?reset=1'); } catch(_){}
+        elChat.innerHTML = '';
+        addBubble('Диалог сброшен.', 'bot');
+    });
 </script>
 </body>
 </html>

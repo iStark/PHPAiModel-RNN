@@ -63,7 +63,7 @@ try {
         json_out(['ok'=>false,'error'=>'model_fields_missing'], 500);
     }
 
-    $temperature = max(0.1, (float)($body['temperature'] ?? 0.7)); // Уменьшаем до 0.7
+    $temperature = max(0.1, (float)($body['temperature'] ?? 0.3)); // Уменьшаем до 0.7
     $top_k       = max(1,   (int)($body['top_k'] ?? 5)); // Уменьшаем до 5
     $max_tokens  = max(1,   (int)($body['max_tokens'] ?? 20)); // Уменьшаем до 20 для коротких ответов
     $user_msg    = (string)($body['user'] ?? '');
@@ -106,7 +106,7 @@ function zeros(int $n): array { return array_fill(0,$n,0.0); }
 function tanh_arr(array $v): array { $o=[]; foreach($v as $x){ $o[] = tanh((float)$x); } return $o; }
 function add_vec(array $a,array $b): array { $o=[]; $n=count($a); for($i=0;$i<$n;$i++) $o[$i]=((float)$a[$i])+((float)$b[$i]); return $o; }
 function matvec(array $M,array $v): array { $r=[]; $rows=count($M); $cols=count($v); for($i=0;$i<$rows;$i++){ $sum=0.0; for($j=0;$j<$cols;$j++){ $sum += ((float)$M[$i][$j])*((float)$v[$j]); } $r[$i]=$sum; } return $r; }
-function vec_softmax(array $v, float $temperature=1.0): array {
+function vec_softmax(array $v, float $temperature=0.3): array {
     $mx = max($v);
     $ex=[]; $sum=0.0;
     foreach($v as $x){ $e = exp(((float)$x - (float)$mx)/$temperature); $ex[]=$e; $sum+=$e; }
@@ -115,7 +115,7 @@ function vec_softmax(array $v, float $temperature=1.0): array {
     return $ex;
 }
 function onehot(int $idx,int $V): array { $v=array_fill(0,$V,0.0); if($idx>=0&&$idx<$V)$v[$idx]=1.0; return $v; }
-function rnn_step(int $x_id,array $h_prev,array $Wxh,array $Whh,array $bh,array $Why,array $by,int $V,float $temperature=1.0): array {
+function rnn_step(int $x_id,array $h_prev,array $Wxh,array $Whh,array $bh,array $Why,array $by,int $V,float $temperature=0.3): array {
     $x = onehot($x_id,$V);
     $hh = add_vec( matvec($Wxh,$x), add_vec(matvec($Whh,$h_prev), $bh) );
     $h = tanh_arr($hh);
